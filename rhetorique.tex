@@ -24,11 +24,20 @@
 
 \usepackage{import}
 
+\renewcommand{\thesubsection}{}
 \renewcommand{\thesection}{\Roman{section}}
 \renewcommand{\thechapter}{}
 \renewcommand{\thepart}{}
 
 \usepackage{titlesec}
+
+\titleformat
+{\subsection}
+[hang]
+{}
+{}
+{0pt}
+{\Large\itshape}
 
 \titleformat
 {\section} % command
@@ -43,7 +52,7 @@
 \titleformat
 {\chapter}
 [hang]
-{\Huge\bfseries}
+{}
 {}
 {0pt}
 {\Huge\MakeUppercase}
@@ -58,6 +67,17 @@
 {0pt}
 {\Huge\MakeUppercase}
 \titlespacing*{\part}{0pt}{40pt}{40pt}
+
+\newenvironment{emphpar}
+    { 
+    
+    
+    \itshape \leftskip=1cm
+       }
+    { 
+    
+    \leftskip=0cm
+       }
 
 \title{LA 
 RHETORIQUE 
@@ -101,8 +121,7 @@ vous en avoir donné l'envie, comme celui qui suis, etc.
 
 A Vitry le 9 novembre 1654
 
-
-Table des chapitres
+\tableofcontents
 
 \input{chapitres/livre1chapitre1.tex}
 \input{chapitres/livre1chapitre2.tex}
