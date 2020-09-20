@@ -1,0 +1,175 @@
+
+%\RequirePackage{luatex85}
+
+\documentclass[11pt]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{fontspec}
+
+\usepackage[a5paper,
+           inner=24mm,outer=15mm,top=24mm,bottom=24mm,
+           includefoot,
+            includehead
+           ]{geometry}
+
+\pagewidth=148mm
+\pageheight=210mm
+
+ \usepackage{comment}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+
+\usepackage{import}
+
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thechapter}{}
+\renewcommand{\thepart}{}
+
+\usepackage{titlesec}
+
+\titleformat
+{\section} % command
+[display] % shape
+{\bfseries\LARGE} % format
+{\titlerule\vspace{1pc}%
+\MakeUppercase{\chaptertitlename} \thesection} % label
+{0pc} % sep
+{} % before-code
+
+\titleclass{\chapter}{top}
+\titleformat
+{\chapter}
+[hang]
+{\Huge\bfseries}
+{}
+{0pt}
+{\Huge\MakeUppercase}
+\titlespacing*{\chapter}{0pt}{40pt}{40pt}
+
+\titleclass{\part}{top}
+\titleformat
+{\part}
+[hang]
+{\Huge\bfseries}
+{}
+{0pt}
+{\Huge\MakeUppercase}
+\titlespacing*{\part}{0pt}{40pt}{40pt}
+
+\title{LA 
+RHETORIQUE 
+D'ARISTOTE}
+
+\author{Traduite en français par M. \textsc{Cassandre}}
+
+\begin{document}
+
+\maketitle
+
+Lettre de M. \textsc{D'Ablancourt} au traducteur, sur la première édition de cet ouvrage. 
+
+Monsieur
+
+Je ne vous ai pas donné mon \textsc{Lucien} comme une 
+bonne chose, mais comme une chose due: Car après 
+la faveur que vous m'aviez faite de me donner votre 
+belle traduction, j'étais comme obligé de vous
+présenter la mienne, quelque mauvaise qu'elle fût. Je ne 
+pretends donc point qu'elle vous doive servir de modèle,
+elle n'est pas assez exacte pour cela, et ne peut porter
+le nom de traduction qu'improprement et parce 
+qu'on ne lui en peut donner d'autre. Ce n'est pas que 
+je croie avoir gâté ce que j'ai altéré, mais c'est afin 
+qu'on ne croie pas que je veuille faire passer pour des 
+règles de traduction les libertés que j'ai prises. C'est la 
+vôtre, Monsieur, qui peut supporter la plus exacte censure, 
+et qui n'a rien ôté à son auteur que l'obscurité. 
+C'est pourquoi je vous conjure d'en entreprendre de 
+nouvelles, et d'achever la traduction de ce grand 
+homme qui est si peu intelligible dans les autres; car je 
+soutiens qu'Aristote est beaucoup plus clair chez lui que 
+chez les traducteurs latins, et que souvent il faut 
+lire l'original pour entendre la version. Le public vous 
+sera obligé du travail que vous entreprendrez, à cause 
+du profit qui lui en reviendra, et moi je ferai gloire de 
+vous en avoir donné l'envie, comme celui qui suis, etc.
+
+\textsc{Perrot D'Ablancourt}
+
+A Vitry le 9 novembre 1654
+
+
+Table des chapitres
+
+\input{chapitres/livre1chapitre1.tex}
+\input{chapitres/livre1chapitre2.tex}
+
+\begin{comment}
+\input{chapitres/livre1chapitre3.tex}
+\input{chapitres/livre1chapitre4.tex}
+\input{chapitres/livre1chapitre5.tex}
+\input{chapitres/livre1chapitre6.tex}
+\input{chapitres/livre1chapitre7.tex}
+\input{chapitres/livre1chapitre8.tex}
+\input{chapitres/livre1chapitre9.tex}
+\input{chapitres/livre1chapitre10.tex}
+\input{chapitres/livre1chapitre11.tex}
+\input{chapitres/livre1chapitre12.tex}
+\input{chapitres/livre1chapitre13.tex}
+\input{chapitres/livre1chapitre14.tex}
+\input{chapitres/livre1chapitre15.tex}
+
+\input{chapitres/livre2chapitre1.tex}
+\input{chapitres/livre2chapitre2.tex}
+\input{chapitres/livre2chapitre3.tex}
+\input{chapitres/livre2chapitre4.tex}
+\input{chapitres/livre2chapitre5.tex}
+\input{chapitres/livre2chapitre6.tex}
+\input{chapitres/livre2chapitre7.tex}
+\input{chapitres/livre2chapitre8.tex}
+\input{chapitres/livre2chapitre9.tex}
+\input{chapitres/livre2chapitre10.tex}
+\input{chapitres/livre2chapitre11.tex}
+\input{chapitres/livre2chapitre12.tex}
+\input{chapitres/livre2chapitre13.tex}
+\input{chapitres/livre2chapitre14.tex}
+\input{chapitres/livre2chapitre15.tex}
+\input{chapitres/livre2chapitre16.tex}
+\input{chapitres/livre2chapitre17.tex}
+\input{chapitres/livre2chapitre18.tex}
+\input{chapitres/livre2chapitre19.tex}
+\input{chapitres/livre2chapitre20.tex}
+\input{chapitres/livre2chapitre21.tex}
+\input{chapitres/livre2chapitre22.tex}
+\input{chapitres/livre2chapitre23.tex}
+\input{chapitres/livre2chapitre24.tex}
+\input{chapitres/livre2chapitre25.tex}
+\input{chapitres/livre2chapitre26.tex}
+
+\input{chapitres/livre3chapitre1.tex}
+\input{chapitres/livre3chapitre2.tex}
+\input{chapitres/livre3chapitre3.tex}
+\input{chapitres/livre3chapitre4.tex}
+\input{chapitres/livre3chapitre5.tex}
+\input{chapitres/livre3chapitre6.tex}
+\input{chapitres/livre3chapitre7.tex}
+\input{chapitres/livre3chapitre8.tex}
+\input{chapitres/livre3chapitre9.tex}
+\input{chapitres/livre3chapitre10.tex}
+\input{chapitres/livre3chapitre11.tex}
+\input{chapitres/livre3chapitre12.tex}
+\input{chapitres/livre3chapitre13.tex}
+\input{chapitres/livre3chapitre14.tex}
+\input{chapitres/livre3chapitre15.tex}
+\input{chapitres/livre3chapitre16.tex}
+\input{chapitres/livre3chapitre17.tex}
+\input{chapitres/livre3chapitre18.tex}
+\input{chapitres/livre3chapitre19.tex}
+
+\end{comment}
+
+
+\end{document}
