@@ -37,12 +37,12 @@
 {}
 {}
 {0pt}
-{\Large\itshape}
+{\Large\itshape\RaggedLeft}
 
 \titleformat
 {\section} % command
 [display] % shape
-{\bfseries\LARGE} % format
+{\RaggedLeft\bfseries\LARGE} % format
 {\titlerule\vspace{1pc}%
 \MakeUppercase{\chaptertitlename} \thesection} % label
 {0pc} % sep
@@ -55,7 +55,7 @@
 {}
 {}
 {0pt}
-{\Huge\MakeUppercase}
+{\Huge\MakeUppercase\RaggedLeft}
 \titlespacing*{\chapter}{0pt}{40pt}{40pt}
 
 \titleclass{\part}{top}
@@ -65,7 +65,7 @@
 {\Huge\bfseries}
 {}
 {0pt}
-{\Huge\MakeUppercase}
+{\Huge\MakeUppercase\RaggedLeft}
 \titlespacing*{\part}{0pt}{40pt}{40pt}
 
 \newenvironment{emphpar}
@@ -78,6 +78,9 @@
     
     \leftskip=0cm
        }
+
+\usepackage{multirow}
+\usepackage{caption}
 
 \title{LA 
 RHETORIQUE 
@@ -98,7 +101,7 @@ bonne chose, mais comme une chose due: Car après
 la faveur que vous m'aviez faite de me donner votre 
 belle traduction, j'étais comme obligé de vous
 présenter la mienne, quelque mauvaise qu'elle fût. Je ne 
-pretends donc point qu'elle vous doive servir de modèle,
+prétends donc point qu'elle vous doive servir de modèle,
 elle n'est pas assez exacte pour cela, et ne peut porter
 le nom de traduction qu'improprement et parce 
 qu'on ne lui en peut donner d'autre. Ce n'est pas que 
