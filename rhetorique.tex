@@ -34,15 +34,15 @@
 \titleformat
 {\subsection}
 [hang]
-{}
+{\raggedright}
 {}
 {0pt}
-{\Large\itshape\RaggedLeft}
+{\Large\itshape}
 
 \titleformat
 {\section} % command
 [display] % shape
-{\RaggedLeft\bfseries\LARGE} % format
+{\raggedright\bfseries\LARGE} % format
 {\titlerule\vspace{1pc}%
 \MakeUppercase{\chaptertitlename} \thesection} % label
 {0pc} % sep
@@ -52,20 +52,20 @@
 \titleformat
 {\chapter}
 [hang]
-{}
+{\raggedright}
 {}
 {0pt}
-{\Huge\MakeUppercase\RaggedLeft}
+{\Huge\MakeUppercase}
 \titlespacing*{\chapter}{0pt}{40pt}{40pt}
 
 \titleclass{\part}{top}
 \titleformat
 {\part}
 [hang]
-{\Huge\bfseries}
+{\Huge\bfseries\raggedright}
 {}
 {0pt}
-{\Huge\MakeUppercase\RaggedLeft}
+{\Huge\MakeUppercase}
 \titlespacing*{\part}{0pt}{40pt}{40pt}
 
 \newenvironment{emphpar}
@@ -128,9 +128,9 @@ A Vitry le 9 novembre 1654
 
 \input{chapitres/livre1chapitre1.tex}
 \input{chapitres/livre1chapitre2.tex}
+\input{chapitres/livre1chapitre3.tex}
 
 \begin{comment}
-\input{chapitres/livre1chapitre3.tex}
 \input{chapitres/livre1chapitre4.tex}
 \input{chapitres/livre1chapitre5.tex}
 \input{chapitres/livre1chapitre6.tex}
