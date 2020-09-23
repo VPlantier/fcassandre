@@ -23,9 +23,12 @@
 \setdefaultlanguage{french}
 
 \usepackage{import}
+\usepackage{chngcntr}
 
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{1} 
+
+\counterwithout{section}{chapter}
 
 \renewcommand{\thesection}{\Roman{section}}
 \renewcommand{\thechapter}{}
