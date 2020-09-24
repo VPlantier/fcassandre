@@ -15,7 +15,7 @@ Supposons donc:
 
      Ou, qui, pour l'avoir, oblige à en rechercher d'autres auxquelles on ne penserait jamais,
 
-     Ou généralement, que c'est ce que souhaite tout se qui est au monde, ou du moins tout ce qui a des  sentiments ou de
+     Ou généralement, que c'est ce que souhaite tout ce qui est au monde, ou du moins tout ce qui a des sentiments ou de
      la raison; et même ce que souhaiterait tout ce qui est privé de raison s'il en avait.
 \end{emphpar}
 
@@ -28,7 +28,7 @@ Disons encore:
 Et encore:
 
 \begin{emphpar}
-     Que tout ce qu'elle nous représente comme un bien en chaque rencontre particulière, cela même nous est toujours avantageux.
+     Que tout ce qu'elle nous représente comme un bien en chaque rencontre particulière, cela même nous est toujours avantageux*.
 \end{emphpar}
 
 Ajoutons:
@@ -36,7 +36,7 @@ Ajoutons:
 \begin{emphpar}
      Que le bien est ce qui, par sa présence, fait qu'on se trouve tout autre et si content qu'on ne souhaite rien au delà,
 
-     Ou, ce qui tout seul nous suffit
+     Ou, ce qui tout seul nous suffit,
 \end{emphpar}
 
 Et même:
@@ -44,7 +44,7 @@ Et même:
 \begin{emphpar}
      Que c'est ce qui peut être cause de tous ces biens que nous venons de dire,
 
-	 Ou qui les petit conserver,
+	 Ou qui les peut conserver,
 
 	 Ou qui en est toujours suivi.
 \end{emphpar}
@@ -58,56 +58,79 @@ Supposons aussi:
 En passant, nous observerons qu'une chose peut être suivie d'une autre en deux manières, ou en même temps, ou quelque temps
 après. Par exemple l'étude est suivie de la science quelque temps après, parce que pour être savant il faut auparavant
 avoir étudié. Et la vie suit toujours la santé en même temps, puis qu'il n'est pas possible qu'on jouisse de la santé et
-qu'en même temps, on soit privé de la vie. 
+qu'en même temps, on soit privé de la vie.
 
 Nous observerons aussi qu'une chose peut être cause d'une autre en trois façons: Ou \emph{formellement et par elle même},
 ainsi la santé est toujours cause qu'une personne est saine; ou \emph{en réparant ce que cette chose perd}, ainsi les
 aliments sont cause encore de la santé. Ou bien enfin \emph{en la conservant}, et de cette sorte l'exercice est cause de
 la santé, parce que d'ordinaire la santé en dépend.
 
-Suppose donc que le bien soit véritablement ce que nous venons de dire. Il sera nécessaire de tirer ces conséquences: Premièrement, §lue tacqmfetion un bien ç la délivrance d'un Mal j feront des ckofes avantageufej, puisque d'un côté acquérant un bien, on n'aura pas en même temps le mal qui lui est contraire: Et d'un autre côté qu'étant délivré d'un Mal, oni aura après le bien qui le fuit. 
+Suppose donc que le bien soit véritablement ce que nous venons de dire. Il sera nécessaire de tirer ces conséquences:
+Premièrement, que l'acquisition d'un bien et la délivrance d'un mal seront des choses avantageuses puisque d'un côté,
+acquérant un bien, on n'aura pas en même temps le mal qui lui est contraire; et d'un autre côté, étant délivré d'un
+mal, on aura après le bien qui le suit. 
 
-En fécond lieu, ï I, S Véchmge d'un peth bien pour un plus 
+En second lieu:
 
-grande ou rechange  un grand Mal pour un plm petit feront encore de grands avantagésy pu sque d'une pait ilfcraviaid'afreurer, Qu'autant que ce grand bien aura d'avantage sur le petit, autant de bien aura t'en acquis qu'on n'avoir pas -, Et d'u'ie autre part, Qu'autant que ce petit Ma'fera moindre que le plus grand, d'autant de mal fera t'en deUvré qu'on n'aura pkis. 
+\begin{emphpar}
+     Que l'échange d'un petit bien pour un plus grand, ou l'échange d'un grand mal pour un plus petit seront encore de
+	 grands avantages,
+\end{emphpar}
 
-On pourra aufli inférer. iISi.' généralement toutes les Vertus feront 
+Puisque d'une part, il sera vrai d'assurer qu'autant que ce grand bien aura d'avantage sur le petit, autant de bien
+aura-t-on acquis qu'on n'avait pas; et d'autre part, qu'autant que ce petit mal sera moindre que le plus grand,
+d'autant de mal sera-t-on délivré qu'on n'aura plus.
 
-des biens, puisquceux qui les poïTedent se trouvent contens eiicctctatj & que d'ailkurs elles font cause qu'il Uxiï ï:nivc en fuite beaucoup d'autres avaiitagcsi : irxiiiC qu'vU-.s iv5 rend en; capables de faire du 
+On pourra aussi inférer:
 
-D*A K I ST O TB. Liv. i, r 
+\begin{emphpar}
+     Que généralement, toutes les Vertus seront des biens,
+\end{emphpar}
 
-biea aux autres. Mais nous parlerons de cette matière à part en un autre endroit, où il fera traitté de chacjuVertu en particulier, ôc de la différence. 
+Puisque ceux qui les possèdent se trouvent contents en cet état et que, d'ailleurs, elles sont cause qu'il leur arrive
+ensuite beaucoup d'autres avantages; et meme qu'elles les rendent capables de faire du bien aux autres. Mais nous
+parlerons de cette matière à part en un autre endroit, où il sera traité de chaque vertu en particulier, et de sa
+différence. 
 
-De plus on foùtiendra, 
+De plus on soutiendra:
 
-e U PUi/ir est un bien, -
+\begin{emphpar}
+     Que le plaisir est un bien,
+\end{emphpar}
 
-parce que natureilejnent tous les Anissiaux le recherchent. 
+Parce que naturellement, tous les animaux le recherchent.
 
-Et par la même raiion, 
+Et par la même raison,
 
-Tontes les belles choses  qui [ont agréables, V» car tout ce qui est agréable nous apporte du plal(ir. Quant aux choses qui font Belles, il faut remarqusr que les unes font agréables amplement, & les auties honnêtes & souhaitables pour i*amour d'elles mêmes. 
+\begin{emphpar}
+     Toutes les belles choses, et qui sont agréables,
+\end{emphpar}
 
-Enfin pour ne rien oublier, & pour nôm- mer tous les biens les uns après les autres, il faudra mettre encore au nombre d-s biens i Premièrement, 
+Car tout ce qui est agréable nous apporte du plaisir. Quant aux choses qui sont belles, il faut remarquer que les unes sont
+agréables amplement, et les autres honnêtes et souhaitables pour l'amour d'elles-mêmes. 
 
-Le fouveram bien, j 
+Enfin, pour ne rien oublier, et pour nommer tous les biens les uns après les autres, il faudra mettre encore au nombre des
+biens: premièrement,
 
-veu qu'il est souhaitable à cause de lui-même & *qu'il peut satisfaire pleinement, & que pour l'acquérir nous n'épargnons rien de tout ce qui est en nôtre pouvoir. 
+\begin{emphpar}
+le souverain bien,
+\end{emphpar}
+
+Vu qu'il est souhaitable à cause de lui-même & *qu'il peut satisfaire pleinement, & que pour l'acquérir nous n'épargnons rien de tout ce qui est en nôtre pouvoir. 
 
 Secondement, il y faudra mettre 
 
-La Justice, la valeur, la tempérance, U Vli# Grandeur de CoHragey la magnificence, C/'i.' veilles habitudes y à cause que ce font là les Vertus de l'axne. 
+La Justice, la valeur, la tempérance, U Vli# Grandeur de CoHragey la magnificence, C/'i.' veilles habitudes y à cause que ce sont là les Vertus de l'axne. 
 
 Il y faudra encore ajouter 
 
-La Santé la beauté jéf telles choses semblables, VïiL pttisque nçii feulejment ce font les Vertus du 
+La Santé la beauté jéf telles choses semblables, VïiL pttisque nçii feulejment ce sont les Vertus du 
 
 5?i'L A R H F. T R I QU E 
 
-corps & les qualitcx qui le perfe<st-onnc«t, iTraiS encore parce qu'elles font capables de nous fake" entreprendre beaucoup de chos-'S, & même de les exécuter. Par exemple la santé cfl un bien, parce qu'elle est la fource de tous les Plaifirs & de la vie même  aufli cflce principalement ce qui la fait paiTcr pour un bien excellent, à ccuCe qu'eile est en iTême temps le principe des deux feules choses que le vulgaire estime le plus aij monde, qui est de yivre, & de vivre avec plaisir, 
+corps & les qualitcx qui le perfe<st-onnc«t, iTraiS encore parce qu'elles sont capables de nous fake" entreprendre beaucoup de chos-'S, & même de les exécuter. Par exemple la santé cfl un bien, parce qu'elle est la fource de tous les Plaifirs & de la vie même  aussi cflce principalement ce qui la fait paiTcr pour un bien excellent, à ccuCe qu'eile est en iTême temps le principe des deux feules choses que le vulgaire estime le plus aij monde, qui est de yivre, & de vivre avec plaisir, 
 
-j Y TES Rlchesses encore font à mettre an Yimg des JL-# biens, 
+j Y TES Rlchesses encore sont à mettre an Yimg des JL-# biens, 
 
 puisqu'il y a de la vertu à s'en bien servir, & que par leur m.ojen on peut faire bien des choses. 
 
@@ -155,7 +178,7 @@ En fécond lieu,
 
 Tout ce qut a pour [on contraire une chose dont les Ennemis tirent de l'avantage, I» 
 
-Par exemple s'il est utile aux Ennemis que nous foïons poltrons, sans doute la valeur nous fera fort avantageufe. 
+Par exemple s'il est utile aux Ennemis que nous foïons poltrons, sans doute la valeur nous fera fort avantageuse. 
 
 Et généralement enfin, 
 
@@ -391,7 +414,7 @@ Enfin le larem fuit en puiffance le sacrilège, puisque quiconque a la hardicffe
 
 Cette conséquence aùfïi aura lieu, §lue de deux choses qui en [urpasseront une V f iroijiémey celle qui la furpassera de daz,:ntage.  fera, la meiWeHre 
 
-atteudu, que pour être en cet état il est neccifa re '.elle fùrpaife aufli i autre qi;i étoit plus grade.. 
+atteudu, que pour être en cet état il est neccifa re '.elle fùrpaife aussi i autre qi;i étoit plus grade.. 
 
 On pourra dite encore 
 
@@ -719,7 +742,7 @@ se,
 
 t> *Ari s T O T E, Lï V. ï. 7J 
 
-9it une ûhofe que tout le monde pu haàe en:rajmen'i la conCequeiice est nécessairc, quj tout e qu fera davaucage souhaité fcia aufli un p, u« jrand bien. 
+9it une ûhofe que tout le monde pu haàe en:rajmen'i la conCequeiice est nécessairc, quj tout e qu fera davaucage souhaité fcia aussi un p, u« jrand bien. 
 
 On pourra encore faire yaloir ce raisonncw 
 
@@ -773,9 +796,9 @@ DA R I s T o r E, L I V. ï. 7 ç
 
 "On voit triilfner captifs par des trotipât ha-roa res Femms y filles, enfans 
 
-Onfe pourra aufïi feryir de Padreffi conttaixe, en assmblant plusi.urs choses ca une Se en les entaflant, comme fait Epicharme i Et cejla pour la même rafon qu? nous venons d'alléguer touchant la diyiûon d'une chose en Ces parties j car d'assembler ain/i plusieurs ckofes, iion seulement l'obj Jt groifit à la veue & parait beaucoup plus i mas encorj onfe figure. Qu'il aul'c de très -grands efF.ts. 
+Onfe pourra aufïi feryir de Padreffi conttaixe, en assmblant plusi.urs choses ca une Se en les entaflant, comme fait Epicharme i Et cejla pour la même rafon qu? nous venons d'alléguer touchant la diyiûon d'une chose en Ces parties j car d'assembler ain/i plusieurs choses, iion seulement l'obj Jt groifit à la veue & parait beaucoup plus i mas encorj onfe figure. Qu'il aul'c de très -grands efF.ts. 
 
-Outre ces adresses, parce que nous avons émarqué Qu'Un bien qui est plus difficile a cquerir, ou plus rare, est aufli ordinaiement plus confiderable et on pourra encofare paraitre une ckoCe plus grande en fallut valoir toutes les circoiances qui TaciiTipagnent, comme font hs occaJions, \s lienx ¦temps il'âge - & les forces des personnes qui auront faite: Car (i quelqu'un par exemple a iifli dans une entr-prile qui paffoit de beaucoup s foirces & son âge j Ou à laquelle pas-un de |s4ai:cii5 n'eût jamais osé p enfer j Ou en*»te s'il Ta exécutée d'une certaine façon, Ou eu rta;n lieui sans doute qu'alors cette entreprise )it être tenue pour bien plus glorieuCe, que Çl le éto:tl ans toutes ces circonstances. Or aoii ilement cette Adresse pourra servir à sa re estier davantage une action Jtiste, Vùle, on qui ira été faite pour accjuerlr de V Honneur  mais Icoreelle serviraà rendre plus blâmable tout ce  |.i aura été fait au co itraire. Il y a un exem\i de cecidans l'épigramme composée à la 'fjliangedu Poissonniex d'Aigos qui remporta 
+Outre ces adresses, parce que nous avons émarqué Qu'Un bien qui est plus difficile a cquerir, ou plus rare, est aussi ordinaiement plus confiderable et on pourra encofare paraitre une ckoCe plus grande en fallut valoir toutes les circoiances qui TaciiTipagnent, comme font hs occaJions, \s lienx ¦temps il'âge - & les forces des personnes qui auront faite: Car (i quelqu'un par exemple a iifli dans une entr-prile qui paffoit de beaucoup s foirces & son âge j Ou à laquelle pas-un de |s4ai:cii5 n'eût jamais osé p enfer j Ou en*»te s'il Ta exécutée d'une certaine façon, Ou eu rta;n lieui sans doute qu'alors cette entreprise )it être tenue pour bien plus glorieuCe, que Çl le éto:tl ans toutes ces circonstances. Or aoii ilement cette Adresse pourra servir à sa re estier davantage une action Jtiste, Vùle, on qui ira été faite pour accjuerlr de V Honneur  mais Icoreelle serviraà rendre plus blâmable tout ce  |.i aura été fait au co itraire. Il y a un exem\i de cecidans l'épigramme composée à la 'fjliangedu Poissonniex d'Aigos qui remporta 
 
 D ij 
 
@@ -829,7 +852,7 @@ D'A R I s T o r E, 1 1 V. r. 77
 
 Les choses qui nous fer-viront davanf-ae h V. élans m. re plus grand Befoin, Par exemple d.ins nôtre vieille ife, plilors que nous Lroiis malades.'V -'
 
-On pourra aufli prétendre 
+On pourra aussi prétendre 
 
 e de deux choses qutfe rapportent à une  Y *. 1 même Tin, celle (ui toucha de plus prés cette fin'est la meilleure. 
 
@@ -857,7 +880,7 @@ jamais avcir, Attendu que l'un nous regarde & que nous en cuvons jouir, mai s no
 
 lafindefes jours feront beaucoup plus h esti» 
 
-mer, i cause qu'étant plus proches de la fin > ils ferajUroPX plus participer à sa nature, Ê)n dira aufli, 
+mer, i cause qu'étant plus proches de la fin > ils ferajUroPX plus participer à sa nature, Ê)n dira aussi, 
 
 €lue ce qui tient plus de la verïtl, vaut  -  I mieux que tout ce qui ne dépend que de lopi 'nlon. 
 
@@ -913,7 +936,7 @@ Enfin on foùtiendra,
 
 e les cho;es qWon tient plus chères quâ d'autres,. feront ausst beaucoup plus efilmablés: Et plus sans doute à Ceux à qui il n'en re fiera plus qu'une de plusieurs qu'ils avaient (auparavant'¦> qu'aux auprès qui n'en ont pas pour une feule, LXYÏt 
 
-D'où vient aufli que la Loi est beaucoup plus sev'ie à un homme qui crevé l'œil à un autre qui n'avoir que celui-Ujque s'il le crevoit à un qui eût encore ses deux yeux \ pares qu'en effet il le prive alors d'une chose qui lui étoit d'autant plus chère, que c'étoit la feule qui lui restoit, 
+D'où vient aussi que la Loi est beaucoup plus sev'ie à un homme qui crevé l'œil à un autre qui n'avoir que celui-Ujque s'il le crevoit à un qui eût encore ses deux yeux \ pares qu'en effet il le prive alors d'une chose qui lui étoit d'autant plus chère, que c'étoit la feule qui lui restoit, 
 
 VO I L A à peu prés les preuves dont il se faut servir quand oa aura à persuader ou à diifuader. 
 
@@ -1039,7 +1062,7 @@ QU AN T aux définitions de chaque Vertu' en particulier, premièrement La Jusil
 
 L'/w/«/?/V au contraire est. un Vice qui nou fait ufurper & reten>r> le bien dautrui contre l'ordonnance 6c l'intentioade ces mêmes lois, 
 
-La Valeur ou. le courage est une Verta quij au milieu des plus grands périls fait entreprendre de belles adions -, ce qui se doit entendrt lors que toutes les circonstances que les Loii prefcriventlont exaâiemcut observécs. hz Courage aufli parait à taire valoir.les. lois. ÔCvd le: maintenir dans icur vigueur. 
+La Valeur ou. le courage est une Verta quij au milieu des plus grands périls fait entreprendre de belles adions -, ce qui se doit entendrt lors que toutes les circonstances que les Loii prefcriventlont exaâiemcut observécs. hz Courage aussi parait à taire valoir.les. lois. ÔCvd le: maintenir dans icur vigueur. 
 
 La.Lâcheié est le vice contraire,. 
 
@@ -1165,7 +1188,7 @@ d'Aristote i Liv. r. 5JI
 
 Tout ce qui nous donne de l'inquiétude  dié foinjfans pourtant quen cet état nous X V infius trouvions falfis d'aucune apprehenjïon 'difcjucceia ne pourra venir que d'eniulacion iulement, & de ce tue nous nous ferons proosé d'acqueiir quelqu'un de ces biens & de ces xantages c'clatans qui regardent la réputation. i la gloire. 
 
-On pourra afleurer aufli, 
+On pourra afleurer aussi, 
 
 §lue les vertus  les œuvres des personnes XVI I*. 
 
@@ -1389,7 +1412,7 @@ entreprTe -, ou de montrer Qu'u l'a exécutée avc Fort peu de monde; ou Qu'il n
 
 Le Tems encore & les Occafions peuvent beaucoup faire valoir une Aâ: oa, parce qu'alors elle paraitra extraordiia're, & fera regardée comme une chose qui a palfé l'attente de tout le monde & l'efperance qu'on enavoit coucuë. 
 
-On pourra aufli agrandir la loiiange d'un homme, en faifant voir Qu'il a fouyent. reuiû dans les mêmes entrepr des y Car outre que l'action en fera plus confidwrée &: se fera davantage admirer i jamais on ne pourra croire qu'elle ait été faite par hasard, & on l'attr.buéra toujours à l'adreiTc & à la vertu de celui qui y aura xcuffi« 
+On pourra aussi agrandir la loiiange d'un homme, en faifant voir Qu'il a fouyent. reuiû dans les mêmes entrepr des y Car outre que l'action en fera plus confidwrée &: se fera davantage admirer i jamais on ne pourra croire qu'elle ait été faite par hasard, & on l'attr.buéra toujours à l'adreiTc & à la vertu de celui qui y aura xcuffi« 
 
 Il fera encore avantageux de remaTqu:r Si <3[uelqu'une des choses, qu'fout faites pour donner de l'émulation & pour porter les hommes aux belles adions, ont été inventées & établies pour faire honneur à celui que nous aurons à loii.r: ou S'il est le premier à qui on air donné des Eloges en public, comme il est arrivé a Hippolochus i enfin Si sa gloire psut être égalée i celle d'Harmodius & d'Aristogiton, qui furent les premiers à qui les Athéniens drelTerent des Statues dans la place publique. Or non feulement ceci aura lieu pour embellir une a6llon & la faire davantage valoir, mais encore pour sa-re le rou'craire; pouvant servir également à en aidir la vie & les actions de ceux que nous voudrons blâmer. 
 
@@ -1705,7 +1728,7 @@ Le changem?nt nous fiaien toutes ehofes» j. .
 
 En effet c'est par cette rafon Que tout ce qu'on oieti! cOl quelque t ms sans voir, par exemple un homme, ou quelqu'autre ciiofo, en parait plus agicabie: Car outre que ce qu'on n'a pas vcu il y a long-temps, apporte u changement par sa présence; c\st que même il en parait plus rare, à raitbn qu'on ne le yot pas toujours. 
 
-Apprendre encore, & st'vclr de Vadmlr/if ion pour qelue chose, d'ordinaire apporte du XXiV. plaijlr y 'puisque tout ce qu'on admire, fait naitre à l'instant le d.fir de savoir ce que c'est? de sorte ¦qu'on peut aiT.urer que tout ce qui se iait admit r est souhaitablt. En apprenant aufli on a cet avantage que l'efpritfperùdionne, & arii-ye à-cet état exCw lient où il afpire de sa nature. 
+Apprendre encore, & st'vclr de Vadmlr/if ion pour qelue chose, d'ordinaire apporte du XXiV. plaijlr y 'puisque tout ce qu'on admire, fait naitre à l'instant le d.fir de savoir ce que c'est? de sorte ¦qu'on peut aiT.urer que tout ce qui se iait admit r est souhaitablt. En apprenant aussi on a cet avantage que l'efpritfperùdionne, & arii-ye à-cet état exCw lient où il afpire de sa nature. 
 
 Ce font encore deux choses tres-agreables X X V. 
 
@@ -1737,7 +1760,7 @@ XKV I. pocha'm( de le corriger de se s fautes.
 
 xxyu 
 
-Comme aufli, 
+Comme aussi, 
 
 ly achever qiéelfe chose qui aura été com-\ mencé, 
 
@@ -1825,7 +1848,7 @@ où il dit,
 
 Vn Artfjan ff avant si plait à fin ouvrage, // travaille fins cesse < ne perd point courage j Le désir de la gloire Ô'de si farpasser, Lui f'ûklt cent fais le jourfon travail repasser, 
 
-Da'lleurs p.irce que nous avons n\onstré Que le teu eli du nombre des choses "qui plaisent,  comme encore toutes sortes de Relâches, & aufli le rire; Il fera nécessaire encore de tirer cette conséquence, 
+Da'lleurs p.irce que nous avons n\onstré Que le teu eli du nombre des choses "qui plaisent,  comme encore toutes sortes de Relâches, & aussi le rire; Il fera nécessaire encore de tirer cette conséquence, 
 
 §ljie tou;ce qui fira facétieux 1 ridlcule, filt XXXVII hommes, dlfcours, aâionSyi!ipportera du plaisir. Quant au Ridicu.enous en avons traité à part dans nos Livres de laPoët que.Voila pour ce qui regard; les chos-s qui font agréables Se qui apportent ds piaifir. A L'égard de celles qui peuvent être facheufes & qui attristjnt, il n*i a qu'à prendre le conaaire. 
 
@@ -1867,7 +1890,7 @@ Caix-là encore se promettront rirapunitc Qiii' feront Amis des personnes mêmes
 
 Ceux qui croient Qu'ils ne feront -point découverts. 
 
-CEux là aufli auront efperancc de n'être point decouvertSjdc cjui Tapparence fera li trompeuf;, qu'à juger d'eux par l'excericur, jamais on ne les prciidroit pour avo r fait ce cu'ils auront fait cstbctivement j comme quand quelqu'un en apparence tres-toibie de corps en aura battu un, autre outrage uf.-mentjqui paroitra de b-aucoup plus rort que Iu;-, Ou quand un Gu uxaura couchc avec une Dame de condition ou un homme tres-la d. avec une fort belle femme. 
+CEux là aussi auront efperancc de n'être point decouvertSjdc cjui Tapparence fera li trompeuf;, qu'à juger d'eux par l'excericur, jamais on ne les prciidroit pour avo r fait ce cu'ils auront fait cstbctivement j comme quand quelqu'un en apparence tres-toibie de corps en aura battu un, autre outrage uf.-mentjqui paroitra de b-aucoup plus rort que Iu;-, Ou quand un Gu uxaura couchc avec une Dame de condition ou un homme tres-la d. avec une fort belle femme. 
 
 Les choses encore qui font trop en jour & exposécs aux ïcux de trop de monde, pourront faire croire àun méchant homme Qu'il ne fera point découvert s'il les prend; la ralon'est Que personne ne s'en donne de garde, & qu'ordiniiremtnt on ne s'imagine pas qu'il y ait de s gens alfés hardis pour ofer seulement y p: nier. 
 
@@ -1899,7 +1922,7 @@ TJt L A R H E T O R I QU E
 
 dcininés en faifant tortjà cjai le larcin promettra-' prerentement ou bien-tôt an profit ailluré, oti. qu:lcuc avantage important-i & c. pendant si on viciit à les condan)uer, Qu'us en iort ront pour peu de chosejou même Qii'il ne kur en coûtera rien i en tout cas s'il leur en doit coûter, Qu'il se paiiera bien du temps avant que d'i avoir sa-. tistiaiE. 
 
-On mettra encore de ce nombre tous Ceux qui se propoCcroiit d'acquérir une chef., si confider rable, qus la pu'iit-on pour grande quellefoit, fupposé même qu'elle arr ve, n'égaiera jamais l'avantage ni le profit qu'ils en treront. Tel est l'avantage que semble promettre la tirannie à . <teux qui ont enViC defe rédre Maitres d'un Etar. Cs.ux-là aufli n'appréhenderont pas d'être condamnés pour leur injustice, s'ils trouvent Qu'il y ait à gagner pour cux.> & quant à la.punition < Qu'ils en feront quittes pour un affront & pour quelque peu d'injures. Ni tous Ceux au contraire dont le crime les fera effiner, & leur tournera à honneur j Comme quand un homme viendra à vanger en mêpie temps la mort de son père, ou de sa mer 3, ainsi qu'il arriva à Zenon; &'cependant Que la punition m pourra aller au plus qu'aune amende, ou à un simple banni flV-. in.ntjou àquelqu'autre peine semblable. Car il est; certain qu'en ces deux rencontres ces p rsonnes là feront portées à exécuter leur m.auvais déffeiniquoi qu'entr'elles il y ait cette différence Que les dernières font loiiables pour leurs niœur3j& les autres dignes de punition. 
+On mettra encore de ce nombre tous Ceux qui se propoCcroiit d'acquérir une chef., si confider rable, qus la pu'iit-on pour grande quellefoit, fupposé même qu'elle arr ve, n'égaiera jamais l'avantage ni le profit qu'ils en treront. Tel est l'avantage que semble promettre la tirannie à . <teux qui ont enViC defe rédre Maitres d'un Etar. Cs.ux-là aussi n'appréhenderont pas d'être condamnés pour leur injustice, s'ils trouvent Qu'il y ait à gagner pour cux.> & quant à la.punition < Qu'ils en feront quittes pour un affront & pour quelque peu d'injures. Ni tous Ceux au contraire dont le crime les fera effiner, & leur tournera à honneur j Comme quand un homme viendra à vanger en mêpie temps la mort de son père, ou de sa mer 3, ainsi qu'il arriva à Zenon; &'cependant Que la punition m pourra aller au plus qu'aune amende, ou à un simple banni flV-. in.ntjou àquelqu'autre peine semblable. Car il est; certain qu'en ces deux rencontres ces p rsonnes là feront portées à exécuter leur m.auvais déffeiniquoi qu'entr'elles il y ait cette différence Que les dernières font loiiables pour leurs niœur3j& les autres dignes de punition. 
 
 Ceux-là encore volontiers le bazarderont à, sare tort, qui jamais irauront été pri.s sur iç iait, ni dé'couverrs -, ni pun s j Et pareillement Cyux qui auront mancjué plusieurs se»s K'tti coup: car û en prend ici comme à la.: 
 
@@ -2141,9 +2164,9 @@ Outre ce que nous venons de remarquer, il y a encore des Adrrffes dont la rhctoj
 
 Cest encore un furerokde mechanceté, Que de commettre une injustice au lieu même où on punit les Coupables, comme font les faux Tém.oins: Car je vous prie en quel endroit fera-t'on retenu de faire mal, si on ne craint pas même de pécher à la face de la tustice & en la présence à&s Juges? 
 
-Toute Aâion encore qui est partlcuUeremenc honteuse à faire, fera aufli plus criminelle. 
+Toute Aâion encore qui est partlcuUeremenc honteuse à faire, fera aussi plus criminelle. 
 
-Et aufli toute offenfe qui est faite à son Bienfaicteur i poçe qu'alors on pèche doublement j 
+Et aussi toute offenfe qui est faite à son Bienfaicteur i poçe qu'alors on pèche doublement j 
 
 G iiij 
 
@@ -2199,7 +2222,7 @@ Il tâchera d'observer encore. Si la Loi, dont il s*agit, n*cfi; point ambiguë 
 
 Déplus il faudra qu'il considére.Si la Loi qu'oa lui oppose & dont on veut faire valoir rautorité n*a point été faite pour des confiderations qui ne puifient plus avoir lieu, pu pour des choses qui ne ioient plus.Câr.l'aïanti'ait voissjil doit inlister là dcifus pour la détruixe &. 1 ul ôter tout crédit, , 
 
-PrA I s aufli s*il arriye que la Loi fasse pour [ui, alors il peut remontrer à l'avantage des lois écrite s j6« quand les Juge  font fer/ne i de juger en leur confcience  dans l'equité  celi6 ne veut p( dire qu'ils aient ahfolument la iber ¦ té de juger, comme bon leur se'mble éf" de se dlen-fer des lois;mais bien que cela se fait ainf, afinque si par hasard le fens d'une Lai étoit si caché. si'Hspepussenipas en flVoiri'.inf, elifgence(ilorsiU 
+PrA I s aussi s*il arriye que la Loi fasse pour [ui, alors il peut remontrer à l'avantage des lois écrite s j6« quand les Juge  font fer/ne i de juger en leur confcience  dans l'equité  celi6 ne veut p( dire qu'ils aient ahfolument la iber ¦ té de juger, comme bon leur se'mble éf" de se dlen-fer des lois;mais bien que cela se fait ainf, afinque si par hasard le fens d'une Lai étoit si caché. si'Hspepussenipas en flVoiri'.inf, elifgence(ilorsiU 
 
 G.vji 
 
@@ -2241,7 +2264,7 @@ Sot y qui tuant le vevc épargne les Enfans,.
 
 QU A N T aux Témoins Modenies, on entend par là Ceux qui aiant de la réputation, ont porté jugement & donné leur avis far quelque chosecar lans doute leur juge— jnent ne lervira pas peu aux. parties qui auront le même diffcHrend. De là vient qu'Eubulus fit en plein Bar)jeau Vamme repartie iiCiiares, que Platon avait déjà faite auparavant à Archib:us, , €jiu'tl et oit cause qu à Athènes onfaifaitprofession publique de méchanceté,  que personne ne s'en €iichoit. 
 
-Au reste entre les Témoins Modernes, ceuxlà font en danger d'être punis & courent même fortune que raccusé, s*il paroist qu'ils Coient faux Témoins &CalomniateursjEt cette sorte de Téinoins ici ne fert qu'à faire mœurs, Si un tel crime en f»rtteulier a hé commis, on nonSi telle 'chose est y.oun'est pos -, v eu que jamais on n€ prend l'avis de ces gens-là sur la qualité d'aucune astion que ce soit i par exemple pour saVoir Si telle adion'est criminelle, ou innocente i Si elle est avantageufe, ou porte préjudice.. Il n'en va pas ainli des autres Témoins qui ne font pas prefens au procès & qui n'i ont. aucune part, puisque c'est d'eux principalement que le né-ttioignage est considérable en ces rencontre?: En< effet il n'y a rien de (1 digne de foi que les An»-ti ens, comme étant personnes incorruptibles ôc. hors d'état d'être fubornécs, caj enfin il faut demeurer d'accord que la preuve parTémoins n'est. pas tout à fait inutile, & que souvent on y ajoutcit toi aufli -bien qu'à d'autres preuyes plus fbrtej.. 
+Au reste entre les Témoins Modernes, ceuxlà font en danger d'être punis & courent même fortune que raccusé, s*il paroist qu'ils Coient faux Témoins &CalomniateursjEt cette sorte de Téinoins ici ne fert qu'à faire mœurs, Si un tel crime en f»rtteulier a hé commis, on nonSi telle 'chose est y.oun'est pos -, v eu que jamais on n€ prend l'avis de ces gens-là sur la qualité d'aucune astion que ce soit i par exemple pour saVoir Si telle adion'est criminelle, ou innocente i Si elle est avantageuse, ou porte préjudice.. Il n'en va pas ainli des autres Témoins qui ne font pas prefens au procès & qui n'i ont. aucune part, puisque c'est d'eux principalement que le né-ttioignage est considérable en ces rencontre?: En< effet il n'y a rien de (1 digne de foi que les An»-ti ens, comme étant personnes incorruptibles ôc. hors d'état d'être fubornécs, caj enfin il faut demeurer d'accord que la preuve parTémoins n'est. pas tout à fait inutile, & que souvent on y ajoutcit toi aussi -bien qu'à d'autres preuyes plus fbrtej.. 
 
 DA. KX s T O T E, L I V. i, r f 51, 
 
@@ -2365,7 +2388,7 @@ H
 
 170 La Rhetoriquë 
 
-Mais parce que la rhétorique est instimée pour porter l'auditeur a donner fou jugement sur ce qui lui est proposéjcar & l s Rcfolut oi-s qui (z prennent en plein Confeil font de véritables JugemçHs, & le barreau encore n'est célèbre qUw par Tes Arrêts; Pour cela il fera neceiTaire, Que l'orateuf xion seulement ait foin d'aporter de bonnes ra'sous & de prouver ce qu'il dit, mais aufli de donner une bonne opinion de lui en parlanti& de plus de gagner Tefprit defes luges 8c de les faire tourner de Ion côté. Car en matière de Purfuafion il est tres-iraportant, lur tout dans les Aisemblées publiques & après dans le barreau, Premièrement de donner toujours bonne opin on de foi en parlant à les auditeurs ( c'est a dire deparaitre tout enfcmble & kabik hommej& homme d'honneur, & porté pour leur bien, )En fécond lieu dedifposer & préparer les efprits d'une certaine manere. Quant à radress de donner une.bonne opiniou de foi en parlant à ses Auditetirs, elle est plus propre à la deiiberationiEt pour ce qui est de préparer les efpnts, c'est un artifice qui fait plus foa effet dans le barreau & eu piaia't devant des Juges. Aufli une personae prévenue de colère, ou d'amour 3 prend bien les choses d'un autre biais & d'un autre esprit, que celui qui n'est touché d'aucune de ces deux Piflions, & qui n'a ni haine ni colère; attendu que les choses alors ou paroiifent touc autres, ou en tout cas ibien plus grandes ou bien moindres. Et de fait qu'un homme ait à juger foa ami convaincu d'avoir fait une injustice, Ou il lui semblera qu'ce qu'il a faitn'est rien, ou que c'est peu de choseic. pendant un ennemi qui auroit à juger /a même persoline portero't un jueneiu tout contraire. Il en'est de même de ceux qui souhiteiic 
+Mais parce que la rhétorique est instimée pour porter l'auditeur a donner fou jugement sur ce qui lui est proposéjcar & l s Rcfolut oi-s qui (z prennent en plein Confeil font de véritables JugemçHs, & le barreau encore n'est célèbre qUw par Tes Arrêts; Pour cela il fera neceiTaire, Que l'orateuf xion seulement ait foin d'aporter de bonnes ra'sous & de prouver ce qu'il dit, mais aussi de donner une bonne opinion de lui en parlanti& de plus de gagner Tefprit defes luges 8c de les faire tourner de Ion côté. Car en matière de Purfuafion il est tres-iraportant, lur tout dans les Aisemblées publiques & après dans le barreau, Premièrement de donner toujours bonne opin on de foi en parlant à les auditeurs ( c'est a dire deparaitre tout enfcmble & kabik hommej& homme d'honneur, & porté pour leur bien, )En fécond lieu dedifposer & préparer les efprits d'une certaine manere. Quant à radress de donner une.bonne opiniou de foi en parlant à ses Auditetirs, elle est plus propre à la deiiberationiEt pour ce qui est de préparer les efpnts, c'est un artifice qui fait plus foa effet dans le barreau & eu piaia't devant des Juges. Aufli une personae prévenue de colère, ou d'amour 3 prend bien les choses d'un autre biais & d'un autre esprit, que celui qui n'est touché d'aucune de ces deux Piflions, & qui n'a ni haine ni colère; attendu que les choses alors ou paroiifent touc autres, ou en tout cas ibien plus grandes ou bien moindres. Et de fait qu'un homme ait à juger foa ami convaincu d'avoir fait une injustice, Ou il lui semblera qu'ce qu'il a faitn'est rien, ou que c'est peu de choseic. pendant un ennemi qui auroit à juger /a même persoline portero't un jueneiu tout contraire. Il en'est de même de ceux qui souhiteiic 
 
 D'Ar I s T o T E, Li v.TI. 171 
 
@@ -2457,7 +2480,7 @@ Or ce qui est cause que ceux qui font affront y prennent du plaisir, c'est qu'en
 
 i)*ArI S'T OTE, L I v.ll. T77 
 
-les jeunes o;eiis & les Riches d'ordinaire font infolens & outragcux, à cause qu'en faifant affront ils s'imaginent le faire valoir & en être bien plus considerables. Le yropro donc de l'affront est d'ôter l'honncur, or quiconque ôce l'honneur, mc~ prise toujours -, Et de fait tout ce qui n'est bon à rien, est laiffé là & l'on n'en tient compte, comme ne pouvant faire ni bien ni mal -, Et c'est aufli ce qm fait dire à AchiUejlorsqu'il est en colère contre Agamemnon. 
+les jeunes o;eiis & les Riches d'ordinaire font infolens & outragcux, à cause qu'en faifant affront ils s'imaginent le faire valoir & en être bien plus considerables. Le yropro donc de l'affront est d'ôter l'honncur, or quiconque ôce l'honneur, mc~ prise toujours -, Et de fait tout ce qui n'est bon à rien, est laiffé là & l'on n'en tient compte, comme ne pouvant faire ni bien ni mal -, Et c'est aussi ce qm fait dire à AchiUejlorsqu'il est en colère contre Agamemnon. 
 
 EutH pfPH tmltter a-vec pl:is de mépris?'liJaJe n 
 
@@ -2591,7 +2614,7 @@ Il est certain encore que les personnes qui seront dans une difposition contrair
 
 ceux quifcro it f aou s; en un mot les personne? qai goûteront certains pla firs dont on ne peut pas s'ofFenrer & qui ne font aucun torti-i'fin ceux <]ai auront une juste occasion de bien efperer. 
 
-Ceux-là aufli Lront dH'poùz à la douceur, de (ui la colère aura eu du temps pour se reposer,  même encore cui tout fraichement ne viendront pas de s'i mettre, car le temps appaife la colère. 
+Ceux-là aussi Lront dH'poùz à la douceur, de (ui la colère aura eu du temps pour se reposer,  même encore cui tout fraichement ne viendront pas de s'i mettre, car le temps appaife la colère. 
 
 C'eist encore une difposition à taire perdre la colère, pour grande qu'elle fait, que de s'être vangé d'un autre un p:uauparavant:Et pour cela Philocrate ayoït ra son, lorique le peuple écoit animé le plus contre lui, & qu'un certain lui demandoit, pourquoi il ne se prefntoit pas pourse justificr?// riest pxi encore tempàxi-ûXt comme l'autre iui eut reparti, Ef qu.nd pensex.-'vofis donc qu'il fera tempa, } Jlfera temps, répondit-il, uandfaura-l veu faire le froceXj à quelqW autre. Et certainemnt, comme )*ai dit, il avait raison j car d'ordinâ.re le p uple en'est bien plus doux, lors qu'il a déchargé sa colère sur quelqu'un, a nli qu'il arr va à Ergophile: Car quoi que les Athéniens fulfent beaucoup plus irrités contre lui que contre Callisthene, ils ne lai/Terent pas ncantnnoins de le renvoier abious, à cauf: que le jour d'auparavant ils avaient condamné CaliilVhaie à mort. 
 
@@ -2641,7 +2664,7 @@ En fécond lieu il faudra tirer cette autre confequence, [ i I. §life ceux à q
 
 font bonnes, ou manvaifesyferont Amis entreux 
 
-Comme aufli > ÏII. Tom ceux qui auront les mêmes personnes 
+Comme aussi > ÏII. Tom ceux qui auront les mêmes personnes 
 
 four amies, ou ennemies. Attendu qu'il fera necelFaire alors qu'ils foient ums de volonté, & qu'ils défirent les mêmes choses; Tellement qu'il est certain le quiconque veut  dejire four un autre les mêmes choses qu'il dejire ô"Veut pour lui-même, Celui-là far ultra touj ours éire son Ami, 
 
@@ -2655,11 +2678,11 @@ D'A RI ST T E, t I V. Ti, Il
 
 'Soït qu'ils nous aient rendu des services fignaIés, ou (implement obligé de bonne grâce 3c. sans nous faire attendre -, Soit enfin qu'ils nous aient fcr/i en des occasions prefentes, Ou qu'en faifant quelque chose pour nous, ils aient témoigné que c'éto!t en nôtre feule considération & purement pour l'amour de nous qa'ils le faifoieac. Et non seulement nous aimons les personlies qui nous ont obligé en effet, mais encore tous ceux que nous croions en avoir la volonté. 
 
-Nous ferons encore portés d'affection poiic les Amis de nos Amis, & pour quiconque aiiïicra les mêmes personnes que nous aimons, on qui en fera aimé. Comme aufU nous aimeions tous ceux qui auront les mêmes ennemis que «ous, ou qui haïront les mêmes personnes que iious haïlTons, ou qui en feront haïs; Et cela â caul'e que tout ce qui paraitra être un bien à ces gens-là, semblera aufliétre un bien pournousidc manière qu'en cet état, il n'est pas possible qu'on ne leur souhaite du bien, qui est une chose quo nous avons remarquée ne pouvoir venir que d'un ami. 
+Nous ferons encore portés d'affection poiic les Amis de nos Amis, & pour quiconque aiiïicra les mêmes personnes que nous aimons, on qui en fera aimé. Comme aufU nous aimeions tous ceux qui auront les mêmes ennemis que «ous, ou qui haïront les mêmes personnes que iious haïlTons, ou qui en feront haïs; Et cela â caul'e que tout ce qui paraitra être un bien à ces gens-là, semblera aussiétre un bien pournousidc manière qu'en cet état, il n'est pas possible qu'on ne leur souhaite du bien, qui est une chose quo nous avons remarquée ne pouvoir venir que d'un ami. 
 
 Nous aimons encore tous ceux qui volontiers assistent de leur argent, ou qui ne craignent point d'expo fer leur vie pour les autres: De là vient qu'on porte honneur principalement aux personnes libérales, ou qui font profession de valeur, o»j qui font amies 4e la justice j au nombre desquels i*on met Ceux qui ne vivent point aux dépens li'autrui, comme font les gens qui gagnent leur yie àtravaillerjor ceux ci font deux corpsjsavoir les Laboureurs & les Artifans particulièrement. 
 
-On aime aufli ccuX qui font Tempérant & donc la vie est réglée j à cause que d'ordinaire ils ne font lort à persouste.Et par U tticmç tfiifoa encore 
+On aime aussi ccuX qui font Tempérant & donc la vie est réglée j à cause que d'ordinaire ils ne font lort à persouste.Et par U tticmç tfiifoa encore 
 
 , Jp4 1a R h iE t o r I cl e 
 
@@ -2971,7 +2994,7 @@ diteurs à la craime, il taudra qu'il tâche dé leur faire croire, 6«V» l'ét
 
 De ljisseurance. 
 
-R puis cju'à présent nous savons, nonfeu icment Ce que c'est que la crainte, j quel hs chosesfont capables à'en dominer j mais encore Comment font difposex. pour l'esprit, ç en quel état se trouvent ceux qui craignent j Saus doute qunous savons aufli par même moyen, E/ ce que c'est que l'affeurance, Et à l'occaficn de quelles choses nous nous tenons affeurex, , Et en quelle difpojition il faut être pour Cela: car il est. certain quw l'affeurance est contraire à la crainte, comme tout ce qui peut asscurer l'esprit est contraire à ce qui nous donne de la peur. 
+R puis cju'à présent nous savons, nonfeu icment Ce que c'est que la crainte, j quel hs chosesfont capables à'en dominer j mais encore Comment font difposex. pour l'esprit, ç en quel état se trouvent ceux qui craignent j Saus doute qunous savons aussi par même moyen, E/ ce que c'est que l'affeurance, Et à l'occaficn de quelles choses nous nous tenons affeurex, , Et en quelle difpojition il faut être pour Cela: car il est. certain quw l'affeurance est contraire à la crainte, comme tout ce qui peut asscurer l'esprit est contraire à ce qui nous donne de la peur. 
 
 L'Affeurance donc peut être définie, Vn cef tain efpoir qui nous, vient  lors que nous nous hnaginons que les choses d'oh dépend notre conservation y font proches  sur le poinB d arriver « Et au contraire j <§}ue celles qui pourroient nous mire  mm f mité fippehender .m mfo?potaf 
 
@@ -3183,7 +3206,7 @@ ON témoignera encore de la honte, Iorsqu'on louffnra, ou qu'on aura louiFert, o
 
 Des choses qui font pour tourner à blâme, ott à deshonneur, 
 
-Comme Tous les services indignes que le corfs peut rendre, & toutes les Adions deshonnêtes lujettes à être reprochécs, & qui peuvent faire af- front. A la vérité il y a cette dfference touchant 4cs ad: ons Lafcives & d.T'icontineiice, qu'absolument il n'i en a pas une qui ne (bit honteufe Se qui n'apporte de iinfamie jqu'on les fouffre volontairement, ou non. Pour les auties où il y a de la violence 6c delà force, celles-là feulemenc ifont honteufcs qu'on fouffre eij sa p rConne. La raison'est, Que fouffrir une injure de cette qualité sans se yanger, témoigne de la lâcheté 6c qu'onn*apoint de cœur i puisqu'enfin il y a lieu de croire Qu'on n'aurait rien iouffcrt fx Ton avait voulu le dessendre. 
+Comme Tous les services indignes que le corfs peut rendre, & toutes les Adions deshonnêtes lujettes à être reprochécs, & qui peuvent faire af- front. A la vérité il y a cette dfference touchant 4cs ad: ons Lafcives & d.T'icontineiice, qu'absolument il n'i en a pas une qui ne (bit honteufe Se qui n'apporte de iinfamie jqu'on les fouffre volontairement, ou non. Pour les autres où il y a de la violence 6c delà force, celles-là feulemenc ifont honteufcs qu'on fouffre eij sa p rConne. La raison'est, Que fouffrir une injure de cette qualité sans se yanger, témoigne de la lâcheté 6c qu'onn*apoint de cœur i puisqu'enfin il y a lieu de croire Qu'on n'aurait rien iouffcrt fx Ton avait voulu le dessendre. 
 
 Voila a peu prés les choses a remarquée qi'i I icausent de ia hontej Venons aui; personaes
 
@@ -3381,7 +3404,7 @@ Eu fécond lieu il y faudra mettre,
 
 La Laideur, U Foihlesse la mutilation deH membres. Comme encore, 
 
-Certaines avantufes remarquables 5 «ar exemple, lors qu ilfe rencontre malheureufe-" iBent pour une persoane que. du même endroit dont elle devroit attendre du bien  il ne lui en vient que du mal } sur tout si la ckofe n'ariivi pas pour une fois., mais fouyent*.. Il en fera de même, , 
+Certaines avantufes remarquables 5 «ar exemple, lors qu ilfe rencontre malheureufe-" iBent pour une persoane que. du même endroit dont elle devroit attendre du bien  il ne lui en vient que du mal } sur tout si la chose n'ariivi pas pour une fois., mais fouyent*.. Il en fera de même, , 
 
 Lor4 que le malheur etivoudraant à queU qu'i4n, qu'Asanf àfperer un bien, qui le.fouvo'U " 
 
@@ -3403,7 +3426,7 @@ Toutes lesperfinnes àe eonmlffarue éw'''»
 
 hante, 
 
-Pourveu que ces gens-là ne nous touchent pasJ «le trop prés \ car alors nous coniidererions leur malheur comme le notre propre, & nous! feroit aufli fenfible qu'à eux-mcmes.De vrai l'on raporte d'Amalis, qu'il ne verfa pointde larmes, lors qu'il vit passer fou fils qu'onmenôitau fupplice, & qisc cependant il pleura à la veuë d'un œ ses Anais qu'il trouva demandant l'aumône:| En effet Tavaiiture de celui ci ctoit feulemenet pitoiable, au lieu que Tautre étoit effroyable pour un père & pleine d'horreur: car il fauc? Içavoir qu'il y a grande différence entre une chpfe qui fait horreur, & une autre éi nfait que pitié i'J'uis que to ce qui fait horreur  non  seulement chaffe lapiiie d*iin cfprit, mais siéi&& a&xiouYent fait tout k contxaise» 
+Pourveu que ces gens-là ne nous touchent pasJ «le trop prés \ car alors nous coniidererions leur malheur comme le notre propre, & nous! feroit aussi fenfible qu'à eux-mcmes.De vrai l'on raporte d'Amalis, qu'il ne verfa pointde larmes, lors qu'il vit passer fou fils qu'onmenôitau fupplice, & qisc cependant il pleura à la veuë d'un œ ses Anais qu'il trouva demandant l'aumône:| En effet Tavaiiture de celui ci ctoit feulemenet pitoiable, au lieu que Tautre étoit effroyable pour un père & pleine d'horreur: car il fauc? Içavoir qu'il y a grande différence entre une chpfe qui fait horreur, & une autre éi nfait que pitié i'J'uis que to ce qui fait horreur  non  seulement chaffe lapiiie d*iin cfprit, mais siéi&& a&xiouYent fait tout k contxaise» 
 
 D'ArI s T O T E, Il V. II. i, j 
 
@@ -3415,7 +3438,7 @@ De ceux qui est feront menacex.  touf frets
 
 ity tomber. 
 
-Il est certai.n aufli, 
+Il est certai.n aussi, 
 
 §1'On a-tra toujours fiùe de se s Semblables, Comme font toutes les prsonnes cle même âge, e même humeur, qui ont contrarié les mêmes habitudes, enfin cjui font de même qualité, & de, pareille naissance.Et de fait en ces rencontrzs'I. nous avons toujours plus grand (ujet de croire. que leurs malheurs nous peuvent anifi arriver j. car c'est une maxime, §lue tout ce que nom crÀlgnons qu'ilrte rtou4 arrive, cela même est ce qui nou4 donne de la comfaffiof quATui il arrive à et autres 
 
@@ -3713,7 +3736,7 @@ Capitaincsiles orateurs cekbresien un mot tous ceux cjui ont de fcmbUbles avanta
 
 On fera encore Emulateur de ceux à qui U  plupart du monde youdroit ressembler, ou être de leur connoissancc, ou avoir leur amitié.Com» me aussi des personnes quit feront dans une très*» haute estimcjou que nous estimerons particulier rementjOU dont le nom retentira dans tous les > Vers, & qui feront le sujet ordinaire lè-ts PanegHriques. 
 
-Or par la même raison qu'on a de rEmiïUtiôït' pour les personnes que nous venons de dire, par h même raison aufli on a toujours du mépris pouE ceux qui ont des qualités opposéesiattcndu que le Mépris de sa nature est contraire il'emalationp comme Avoir de l'emulatlmc contraire à ce que nous appelons A4//nyrid'où il s'ensuit, Que quiconque fera en état d'avoir des Emulateurs oia de l'être lui-même, celui-là traitera de mépris tous ceux qui auront des vices 5c des qwalitést contraires aux qualités excellentes & aux grands avantages qui donnent de rEmulation. Et de faiç voïons-nous aflés fouyent mépriser des personnes que la fortune a comblé de biens j à cause qu'il ne se remarque rien en eux de considérable que ce qu'elle leur a donné. 
+Or par la même raison qu'on a de rEmiïUtiôït' pour les personnes que nous venons de dire, par h même raison aussi on a toujours du mépris pouE ceux qui ont des qualités opposéesiattcndu que le Mépris de sa nature est contraire il'emalationp comme Avoir de l'emulatlmc contraire à ce que nous appelons A4//nyrid'où il s'ensuit, Que quiconque fera en état d'avoir des Emulateurs oia de l'être lui-même, celui-là traitera de mépris tous ceux qui auront des vices 5c des qwalitést contraires aux qualités excellentes & aux grands avantages qui donnent de rEmulation. Et de faiç voïons-nous aflés fouyent mépriser des personnes que la fortune a comblé de biens j à cause qu'il ne se remarque rien en eux de considérable que ce qu'elle leur a donné. 
 
 Voila ce que nous avions à dire touchant leg moyens qui peuvent faire naitre ou appaifcr le PalEons afin d'être plus en état de pertuader 
 
@@ -3823,7 +3846,7 @@ Dans tout ce qu'ils font, iu(si, ils n'ont rien tant en recommandation que Uur i
 
 Les Vieillards encore font beaucoup plus sujetsà n'avoir point de honte, qu'à en avoir jcar comme en toutes choses ils font sans comparaison plus d'état du profit que de ihonneur id'ordmai-' rc ils se foucient fort peu quelle opinion l'on ait d'eux, pourveu qu'ils falTent leurs affaires. 
 
-Difficilement aufli les Vieillards mettent-ils leur elperancc à quelque choL-, à cause de l'expérience qu'ils ont-, car ils savent que la plupart des affaires font mauvaifes, & qu'amfi le fuccés n'en eu pas toujours si heureux qu'on s'imaginer Ge n'est pas que cela ne vienne encore en partie de leur timidité. 
+Difficilement aussi les Vieillards mettent-ils leur elperancc à quelque choL-, à cause de l'expérience qu'ils ont-, car ils savent que la plupart des affaires font mauvaifes, & qu'amfi le fuccés n'en eu pas toujours si heureux qu'on s'imaginer Ge n'est pas que cela ne vienne encore en partie de leur timidité. 
 
 Davantage les Vieillards ont ceci de particuo lier, Qu'ils vivent beaucoup plus de m-moire & de souvenir, qu'ils ne iom d'efperancej& cela ar xive ainsi, à cause que ce qui kurreste de vieest tres-peu de chose à comparaison de ce qu'ils ont vécu i Or est-il que l'efperance regarde V Avenir & la mémoire le pajfé. Et de fait c'est la raison pourquoi les Vieillards font (i grands parleurs j> car ils ont ce défaut là que jamais ils ne se laffent de raconter ce qu'ils ont veu & tait autrefois, tant ils ont de joie à s'en souvenir. 
 
@@ -3835,13 +3858,13 @@ aigreur, mais jamais elle n'est bien sorte.Quant à leurs autres passionSjUne pa
 
 La Vie des Vieillards encore est en ce pôin contraire à celle des Jeunes gens, Que dans tout ce qu'ils font ils suivent beaucoup plus leurs maximes particulières & le raifoiinement, qu'ils ne fu'vent la coùtume, 8<: la commune façon d'agir: Or:st-il que tel ra fonnement est mter essé & tend i l'ùtilc -, au lieu que l'autre manière est' loiiable & t'ent de la vertu, 
 
-Quind ils ofF-nfent c'èst toujours plutôt pâf malice & ideff-m de nure, que ce n'est par bravade, m pour ratre affront. Au reste ils font aulU-l pitoiablss, mas par une autre raisô que lesleunes' gensicar quand lesJeunes gens Ce làilTent aller à' là coi-npastion, c'est toujours par uû véritable fentim:nt d'humanité & qu'ils font d'un bô naturel; au lifu que les Vieillards n'y font portés que par fôibleif-. En effet cette foiblesse est si grande cn'j eux, qu'ils ne sauroient voir de mal à personne, u'aufli-tôt ils ne s'uTiaginent être à la veill( 'en avoir autant i qui est une chose que nous a-j vons remarquée entre les princ:paux motifs qui poïtent les hommes à la compaflion. Et M 
+Quind ils ofF-nfent c'èst toujours plutôt pâf malice & ideff-m de nure, que ce n'est par bravade, m pour ratre affront. Au reste ils font aulU-l pitoiablss, mas par une autre raisô que lesleunes' gensicar quand lesJeunes gens Ce làilTent aller à' là coi-npastion, c'est toujours par uû véritable fentim:nt d'humanité & qu'ils font d'un bô naturel; au lifu que les Vieillards n'y font portés que par fôibleif-. En effet cette foiblesse est si grande cn'j eux, qu'ils ne sauroient voir de mal à personne, u'aussi-tôt ils ne s'uTiaginent être à la veill( 'en avoir autant i qui est une chose que nous a-j vons remarquée entre les princ:paux motifs qui poïtent les hommes à la compaflion. Et M 
 
 2 
 
 d*Aristote, Liv. ÏI. i<ri 
 
-là vient aufli qu'ils se plaisrnent continuellement, , & que tout au contraire aes jeunes gens, ils font de mauvaile humeur & n'aiment point à ri.i:e:car il n'y a rien de plus opposé à l'cfprit d'une personne enjouée & qui aime à rire, qu'une autre qui rechigne & se plaint sans ceiTe. 
+là vient aussi qu'ils se plaisrnent continuellement, , & que tout au contraire aes jeunes gens, ils font de mauvaile humeur & n'aiment point à ri.i:e:car il n'y a rien de plus opposé à l'cfprit d'une personne enjouée & qui aime à rire, qu'une autre qui rechigne & se plaint sans ceiTe. 
 
 CE font là. à peu prés les Mœurs des Vieillards & des Jeunes gens. De manière donc que puisque tous les hommes font ain(i faits qu'ils prcilent toujours l'oreille & se rendent aux persualions de ceux qui parovifent de même humeur qu'eux dans leurs discQuis Se être de même fentTmentjil n'est pas difficile de vo r à présent, De quelle adrelle il se faudra servir quand nous Voudrons paraitre tels qu'il vient d'être remar» que, & faire que nôtre discours s trouve dans , «c caradere-ià. 
 
@@ -3853,11 +3876,11 @@ ZjCS Mœurs âe ï'Howmefatt & qni a -. teint l'âge de perfeSiton,
 
 O u R c:ux qui font dans la vigueur &.a force de kur âge, on voit sans doute que leurs Mœurs tiennent le imiieu entre celles doiu nous venons de parler, retranchant d'ordinaire cet excès où si souvenc tombent les Vieillards & les Jeunes gens. 
 
-Car premièrement ils ne font ni dans une trop grande confiance d'eux-mêmes, puisqu'alors çeferoit audace, qui est le vice des Jeunes gens i ni aufli dans une trop grande crainte, comme les Vieillards-, mais dordinaire ils se gouvernent de sorte qu'ils gardent la médiocrité, & ne font que ce qu'un honnête homme doit faire. 
+Car premièrement ils ne font ni dans une trop grande confiance d'eux-mêmes, puisqu'alors çeferoit audace, qui est le vice des Jeunes gens i ni aussi dans une trop grande crainte, comme les Vieillards-, mais dordinaire ils se gouvernent de sorte qu'ils gardent la médiocrité, & ne font que ce qu'un honnête homme doit faire. 
 
 Ce ne font pas gens non plus, ni a croire indifféremment toute force de personnes, ni à se défier de tout le monde j mais plutôt ils examinent chaque chose en elle-même, & en jugent félon la v rite. 
 
-Ils jie se piqu'nt pas aufli tellement d'honneur, qu'ils négligent tout-à-fait leur intérêt s mais ils ont foin de l'un & de l'autre. 
+Ils jie se piqu'nt pas aussi tellement d'honneur, qu'ils négligent tout-à-fait leur intérêt s mais ils ont foin de l'un & de l'autre. 
 
 Ils ont encore cela de bon, Qu'ils n'inclinent ni trop du côté de Tavaiice, m trop du côté de 
 
@@ -3909,7 +3932,7 @@ Les Riches outre cela aiment a vivre délicatementj& ont une vanité {i iniuppor
 
 D'A R I s T O T E, L I V. II. 1)7 
 
-tablement ils ont cuclque sujet de la croire, puis C[u'il Ce trouve tiit de gens (ui ne sauroient fs palTcr de ceux c]ui ont du bien, & pour cela tous les jours étant obligés de les rechercher. De là vient aufli ce qui a été dit par Simonide à l'occafiondes Rich.s & des savans, car comme la femme du Roi Hicron lui eut demandé, Lequel des deux é toit le plus à fcu.'jaiterf d'être Riche oh Sfavantf'U répondit, Qu'il valoit b::aucoup mieux cere Kich.Q, pulj'jueyà\t-i\y tous les jours à lu porte des Riches on ne voi."nutre chose que des Sfavans. Pour preuve encore c|ue les Riches font rort ar«oganSjC'est cjue d'ordinaire ils s'imaginent qu'il n'y a personne quifot plus digne de commander qu'euxi&se t'imaginent ainfipource qu'ils croient avoir les choses.qui font qiBn'est digne de commander aux autres. 
+tablement ils ont cuclque sujet de la croire, puis C[u'il Ce trouve tiit de gens (ui ne sauroient fs palTcr de ceux c]ui ont du bien, & pour cela tous les jours étant obligés de les rechercher. De là vient aussi ce qui a été dit par Simonide à l'occafiondes Rich.s & des savans, car comme la femme du Roi Hicron lui eut demandé, Lequel des deux é toit le plus à fcu.'jaiterf d'être Riche oh Sfavantf'U répondit, Qu'il valoit b::aucoup mieux cere Kich.Q, pulj'jueyà\t-i\y tous les jours à lu porte des Riches on ne voi."nutre chose que des Sfavans. Pour preuve encore c|ue les Riches font rort ar«oganSjC'est cjue d'ordinaire ils s'imaginent qu'il n'y a personne quifot plus digne de commander qu'euxi&se t'imaginent ainfipource qu'ils croient avoir les choses.qui font qiBn'est digne de commander aux autres. 
 
 Enfin pour faire au vrai le portrait des Riches, Qu'on se figure un iou à foa a. Ce & qui a tout à Xouhait, 
 
@@ -4275,7 +4298,7 @@ L
 
 D*Ar IS T O T E, Ll V, 1I. 187 
 
-Se qu il s'agit de dclibeirci Tur qul4u grande alfaire. De plus elle a ceci de bon que l'exemple «a pas, c'est que comme il est d.fficile de trouver dans THistoiredes choses qui aient un parhiit rapport avec celles qu'on dait prouver j Tout le contraire se trouve de la fab'.e, qui de foi est aifce à inventeripuisqu enfin pour teindre une Fable, il ne faut point s'y prendre autrement que pour feindre une Parabole, cont homme étant capable d'y reùflir qui tçaura conuaitre en quoi conliste une relTemblanceVc» qui n'est pas diiiicile à quiconque est un peu versé d.uis la phUorophie. Il est donc coustant que ia Fable est plus aisée à trouver que l'exemple i mais aufïi l'exemple la furpasse en ce poinst, Que les Preuves comme les iiennes, quifont fondées lur la vérité de l'histoire 
+Se qu il s'agit de dclibeirci Tur qul4u grande alfaire. De plus elle a ceci de bon que l'exemple «a pas, c'est que comme il est d.fficile de trouver dans Thistoiredes choses qui aient un parhiit rapport avec celles qu'on dait prouver j Tout le contraire se trouve de la fab'.e, qui de foi est aifce à inventeripuisqu enfin pour teindre une Fable, il ne faut point s'y prendre autrement que pour feindre une Parabole, cont homme étant capable d'y reùflir qui tçaura conuaitre en quoi conliste une relTemblanceVc» qui n'est pas diiiicile à quiconque est un peu versé d.uis la phUorophie. Il est donc coustant que ia Fable est plus aisée à trouver que l'exemple i mais aufïi l'exemple la furpasse en ce poinst, Que les Preuves comme les iiennes, quifont fondées lur la vérité de l'histoire 
 
 \ Se qui allèguent des évenemens certains, font d'un plus grand effet dans les Délibérations, & beaucoup plus propres à perCuader j &: cela à cause de 
 
@@ -4343,7 +4366,7 @@ d'avoir la [an'é j Car sans doute il y a peu de gens à qui ceci ne paroisse vr
 
 -Ce nefi point bien amer y que d'aimer pour un temps. 
 
-Les Sentences qu'on ne sautoit alléguer sans donuer une raison, font aufli de plus d'une sorte; attendu qu'il y en a qui font partie d'Emhlméme*, par exemple celle que nous avons déjà alléguée, 
+Les Sentences qu'on ne sautoit alléguer sans donuer une raison, font aussi de plus d'une sorte; attendu qu'il y en a qui font partie d'Emhlméme*, par exemple celle que nous avons déjà alléguée, 
 
 L'Homme bien avisé qui se voit des enfans. st d'autres qui valent presque autant qu'un Enthymême, < qui n'en font point partie i Et cel les-là sans d;lficulté font les plus estimées, à cause qu'elles contiennent la raison de ce qu'elles avancent, comme il se p:ut voir en la suivante. 
 
@@ -4397,7 +4420,7 @@ noTii U  " 4  - commun, ,
 
 i »„ Défendre son Pa ïs est un tres-hon augure. 
 
-Un autre aufli qui voudroit combattre des ennemis plus forts que lui & en plus grand nombre, n'auroit qu'à dire à les foidats pour leur donner du cœur j Les armes font journalières. 
+Un autre aussi qui voudroit combattre des ennemis plus forts que lui & en plus grand nombre, n'auroit qu'à dire à les foidats pour leur donner du cœur j Les armes font journalières. 
 
 Il en feroit de même d'un homme qui voudroit faire mourir ks enfans de ses ennemi» quoi qu'innoccns & qu'ils ne lui eusient jamais fait de tort 3. car pour trouver quelque prétexte à sa cruauté il pourrait alléguer ce vers qui a pnlfé. en Proverbe. 
 
@@ -4863,7 +4886,7 @@ pour ennemis i attireras leur colère sur toi.
 
 Et c'est pour ceUyàh alors un autre à ce fils, §lue vous deveXj plutôt faire ceue vôtre Mere ne veut pas j car si vous pdrlsz, pour la fuf" tlccy vous aurex> les Dieux pour Amis j Et att'-' contrai, c si vous dessendeXj l'in/usilce, leshom-" mes vous en aimeront Ô"'vofs voudront df bien. ; r 
 
-Or telle iTianiere de railx)stiici: est a peu prés ce qui se dit en commun Vi:oy àhzy Ache.er l*KUlle  " le-fel. Et c'cfl encore ce quj s'appelle donner lé xHsfHj change OM Argument renverse àt exemple lors qu'il arrivecomme ici, Que dvuxchoses étant contraires &; te trouvant également suivies de biexi'& de mal jce Mal & ce bien le trouvent aufli tousQi-ux oppolés, également & contraires l'un à l'au-trc. 
+Or telle iTianiere de railx)stiici: est a peu prés ce qui se dit en commun Vi:oy àhzy Ache.er l*KUlle  " le-fel. Et c'cfl encore ce quj s'appelle donner lé xHsfHj change OM Argument renverse àt exemple lors qu'il arrivecomme ici, Que dvuxchoses étant contraires &; te trouvant également suivies de biexi'& de mal jce Mal & ce bien le trouvent aussi tousQi-ux oppolés, également & contraires l'un à l'au-trc. 
 
 T parce que les hommes font dilTiinulés a ce'xvfX point, que le plus foiiveut le cœur dément la  
 
@@ -5103,7 +5126,7 @@ l'J'iUaure Lieu, est De dire conjointement c ne l J
 
 faire qu'une ch f te ce qui doit être difilngiié Se dit fé parement. Ou.u contraire, De dire à. j fart, ce qui doit être d't conjointement  comme ! tine même cho'e; CàX puisque d'ordinaire on conj fond ces clipfes ici & qu.: le tout ne pafl'e cjue j pour un en apparence, quoi que fouvint il y aie ! bien à d-re j pour cela dans la rencontre il s'en faudraservir félon qu'on le jugi-ra à propos 3c Lqu'il viendra mieux au sujet. Ceci au reste elt loiite la fiiiefle d'Euthidéme dans ce Soph;fme si 1 4:oiinu qui court de lui, lorf qu'il prétend prouver, qu'une certaine Galère est dans le pirée, jquoi qu'elle n'y se t pas, à cause que celui à qui il j)arie fait en particuiier, & ce que c'est que le pilée, & la galère donc il entend parler. 
 
-Un railonne ment encore de cette qualité est xomme fi quelqu'un pretendoit, Parce qu'un homme connaitroit les lettres d'un vers difficile, qu'il auro 3 aufli Tintelligence du vers'j à cause ue ce vers là ne fer oit composé d'autre chose <jque des lettres qu'il connaitroit. 
+Un railonne ment encore de cette qualité est xomme fi quelqu'un pretendoit, Parce qu'un homme connaitroit les lettres d'un vers difficile, qu'il auro 3 aussi Tintelligence du vers'j à cause ue ce vers là ne fer oit composé d'autre chose <jque des lettres qu'il connaitroit. 
 
 Il en f-ro:t de même de foûtcnir, Parce que le Double d'une chose ne vaudroit rien à un malade, que la dofe toute Simple ne lui vaudroit rien non plus y 
 
@@ -5391,7 +5414,7 @@ CE'c I donc preCupposéj5c de*plus puisque li Vrai'femhlable de sa nature est te
 
 s ri. 
 
-nient il y a toujours Ueu.d*i répondre & d'âpportçr quelque objection; attendu que si cela n'étçlt, cène ferojt plus alors vrai-semblance, mais, ie chose de pure neçeflité 5c. qui s feroit toùjoaï;s de la même façon.De là il arrivç que le ]uge, qui n'est.pas dvs plus fins en. ces matieres, lors que de cette sorte il entend répondre à un Argu-ïi>ènt>& qu'il voit foCitenir, g'«7 rtl a aucune ne cçssitéd'ajouter foi à ce qtt'cn avance, aufli-tôt: ilj s'imagine, Qu qu la,.chose absolument n'est, pas vi;ai-semblable Ou en tout cas qu'elle cxcc-. de son poviyQir, & quece n'est point à lui à en |u-.geritrompé compie j'ai djt pai la qualité de cet-t JRépoiie: Cependant il a tort, doniiant par là â.i corinaitre Qu'il ne sait pas jusqu'où s'étend sa i luufdidionipuisque. tout ]ugen'ç pasfeulemeuc; à prononcer sur les çhofes de. nécessité absoluëj, jrnais encore sur, celles qui;ne font que Ytai-fem- bi.ablesjce qui est iivtai, que même cfest là pro-ù yr.qment ce qu'OR appelle, J«r.*»» confcieme  < 
+nient il y a toujours Ueu.d*i répondre & d'âpportçr quelque objection; attendu que si cela n'étçlt, cène ferojt plus alors vrai-semblance, mais, ie chose de pure neçeflité 5c. qui s feroit toùjoaï;s de la même façon.De là il arrivç que le ]uge, qui n'est.pas dvs plus fins en. ces matieres, lors que de cette sorte il entend répondre à un Argu-ïi>ènt>& qu'il voit foCitenir, g'«7 rtl a aucune ne cçssitéd'ajouter foi à ce qtt'cn avance, aussi-tôt: ilj s'imagine, Qu qu la,.chose absolument n'est, pas vi;ai-semblable Ou en tout cas qu'elle cxcc-. de son poviyQir, & quece n'est point à lui à en |u-.geritrompé compie j'ai djt pai la qualité de cet-t JRépoiie: Cependant il a tort, doniiant par là â.i corinaitre Qu'il ne sait pas jusqu'où s'étend sa i luufdidionipuisque. tout ]ugen'ç pasfeulemeuc; à prononcer sur les çhofes de. nécessité absoluëj, jrnais encore sur, celles qui;ne font que Ytai-fem- bi.ablesjce qui est iivtai, que même cfest là pro-ù yr.qment ce qu'OR appelle, J«r.*»» confcieme  < 
 
 Ainsi.donc pour donner folution; il ne fufE-.ia pas de montrei-j e la p'ewue nefl pat con'vaipiHahte, & n (enferme. aHcunenecejfné i mais. encore il fera befoin de; faire voir, Gif ahfolnment..: sUe n\est pfj.'VKai-femklable.C qui fera évident fi_5 Vobjedion qu'on apporte est fondée sur des chosqs qui arrivant bin?i\»s. ordinaireinent quy ceU. les qu feront alléguées, , 
 
@@ -5411,7 +5434,7 @@ Que (1 la preuve de l'adverfaire est telle, que sans lui.pouvoir rien opposer il
 
 %<9 La R h e t o r I '5 
 
-A L'égarddu Signe necejfaire, & des Eiitili'l' mêmes qui en font tirés i comme ce n'est , is y satisfaire, ni km: donner fol ut ion, que denier fimplement la conséquence ainsi que noua Kavens fait v-oir dans nos Analitiques i le feuimoyen qui refie pour y répondre, c'est de montï:ZTy§)u? ce qu'o?i dit tiefi pas vrai,  qu'absc-r lument luchafe ne se trouvera point:-Que si esseâiivement la chose est vraie, & de plus qu'on ne puisse pas douter que la conséquence qu'on eu tire ne soit necelfaire, pour être fondée sur uq Signe iiuaiUible ôc certain y l'argument alcis fera sans réponfe, attendu que le tout paraitra aufli clair que si l'on ayoit apporté uae Démoi> ttation. 
+A L'égarddu Signe necejfaire, & des Eiitili'l' mêmes qui en font tirés i comme ce n'est , is y satisfaire, ni km: donner fol ut ion, que denier fimplement la conséquence ainsi que noua Kavens fait v-oir dans nos Analitiques i le feuimoyen qui refie pour y répondre, c'est de montï:ZTy§)u? ce qu'o?i dit tiefi pas vrai,  qu'absc-r lument luchafe ne se trouvera point:-Que si esseâiivement la chose est vraie, & de plus qu'on ne puisse pas douter que la conséquence qu'on eu tire ne soit necelfaire, pour être fondée sur uq Signe iiuaiUible ôc certain y l'argument alcis fera sans réponfe, attendu que le tout paraitra aussi clair que si l'on ayoit apporté uae Démoi> ttation. 
 
 »'A R r s T o T E, Liv. IL 3 51 
 
@@ -5489,7 +5512,7 @@ d'autant que l'eloquence, pour éclater-j' pend de. trois Poinâs priiicipalemen
 
 VArIS T OTE, Ll V. IIi. JJf. 
 
-Des Chofcs, Des Paroles, Del'aaion. A leur égard on peut aflcurer ae jusques ici rordre qui étoit le plus naturel a été suivi: «caf d'abord, comme c'est ce qui s'offre le pie.micr, on a recherché Celles étalent les choses qui fewvent -persuader? Après on'est venu à examiner Comment ilfalott dire ces choses'là pour ies dire bien, éf dans cuel ordre? Quant au dernier Poind;, (uï cmfijte dans V Aiilon, & qui -est d'un très grand eiFet i c'est à quoi l'on n'a ;Çoint encore travaillé: & même ce n'a été que loLC tard qu'on s'en'est avisé pour le t heatre, & |>our Réciter les Poèmes Epiquesj car auparavant P*4<" c'étoieut les Poètes eux-mêmes qui reprefenax>ient leurs propres Tragedieside manière qu'au jourd'hui il ne faut point douter que ce ne soit une i'artie à cultiver dans la rhétorique aufli-bien -qu'elle l'a été dans la pœ/le j car pour la poëfic ou sait que beaucoup s'en font déjà mêlés, entr'autres un certain Glaucon de Teos en ionie. Au restc tout ce fecret-là dépend de la voix » pour savoir comment il s'en faut servir dans I chaque Passionjpar exemple §luandU faut Vêle" Ver ou l'abaisserjOU parler à l'ordinaire. Et tout de . iBiême à Tégard des Tons disserenscm font l'aigu, jle bas & le mediocre, & encore à l'égard du NôjbrCjafin de les bien ménager dans chaque mouvet met particulierccar il est certain que tous ceux qui li'étudient àlapronôciation«iit accoutumé d'obj.erver ces troir choses, Le corps ou la for ce de Ifk \volXyl'Harmonie; le nombre. Et devrai cela est i importantjque de tous les orateurs qui paroii"ent en public, il n'y a presque que ceux qui ont la rononciation belle, & qui récitent bien, qui remoitenc le pr.xi& il ne s'en faut pas étonner; Car 
+Des Chofcs, Des Paroles, Del'aaion. A leur égard on peut aflcurer ae jusques ici rordre qui étoit le plus naturel a été suivi: «caf d'abord, comme c'est ce qui s'offre le pie.micr, on a recherché Celles étalent les choses qui fewvent -persuader? Après on'est venu à examiner Comment ilfalott dire ces choses'là pour ies dire bien, éf dans cuel ordre? Quant au dernier Poind;, (uï cmfijte dans V Aiilon, & qui -est d'un très grand eiFet i c'est à quoi l'on n'a ;Çoint encore travaillé: & même ce n'a été que loLC tard qu'on s'en'est avisé pour le t heatre, & |>our Réciter les Poèmes Epiquesj car auparavant P*4<" c'étoieut les Poètes eux-mêmes qui reprefenax>ient leurs propres Tragedieside manière qu'au jourd'hui il ne faut point douter que ce ne soit une i'artie à cultiver dans la rhétorique aussi-bien -qu'elle l'a été dans la pœ/le j car pour la poëfic ou sait que beaucoup s'en font déjà mêlés, entr'autres un certain Glaucon de Teos en ionie. Au restc tout ce fecret-là dépend de la voix » pour savoir comment il s'en faut servir dans I chaque Passionjpar exemple §luandU faut Vêle" Ver ou l'abaisserjOU parler à l'ordinaire. Et tout de . iBiême à Tégard des Tons disserenscm font l'aigu, jle bas & le mediocre, & encore à l'égard du NôjbrCjafin de les bien ménager dans chaque mouvet met particulierccar il est certain que tous ceux qui li'étudient àlapronôciation«iit accoutumé d'obj.erver ces troir choses, Le corps ou la for ce de Ifk \volXyl'Harmonie; le nombre. Et devrai cela est i importantjque de tous les orateurs qui paroii"ent en public, il n'y a presque que ceux qui ont la rononciation belle, & qui récitent bien, qui remoitenc le pr.xi& il ne s'en faut pas étonner; Car 
 
 '55jLaRhetori (U e 
 
@@ -5497,7 +5520,7 @@ par la même railon que prefentement pour le Théâtre les Comédiens ont un ava
 
 Touchant Tadion donc, comme j'ai dit, c'est une matière qui n'a point encore été traitée n: réduite eu Art ¦¦, Se d'autant plus que ce n'est qu( depuis peu qu'on afongéà l'eiocution & à Cf. donner des préceptes. Aufli pour en bien parler j il semble que l'eiocution ioit peu de chose St qu'onnedevroit point s'i arrêter j ueantmoim parceue la rhétorique elle-même, à la bier! confiderer  ne contient rien de folide, & ne gii qu'en opinion j on ne doit pas lailler d'en tri'iter, non pas à la vérité «comme d'une xhofe quii jnerite qu'on en fasse état, mais.comme neceflai-j re de la iorte qu'on vit à présent. 
 
-En efFctjil feroit à désirer que pour leDircoursj onne s'amasât point à tant de vaines adrellcil comme on fait, puisque tout l'agrément qu'oxi y devroit chercher, feroit de faire en sorte qu'i: ne pût pas tout-à-fait déplaire, ni aufli donne:j trop de. plaisir j étant de la juflice de ne s'ataJ cher qu'à Ion Sujet & de travailler fcgccement s fiirc connaitre la vérité i taut le reste, hor; la preuve étant inutile. Pourtant, comme j'a dit, le malheur du iiecle ell tel, qu'aujourj, d'hui ces Adrefies-là font de très grand etFcr àcauseqye l'auditeur u'est pas comme il dé. vroitétre, & que tout est pervert'. Pour l'elo cution, véritablement il y a quelque exception faircjveu qu'elle est ncceifaire en jquelque lorcc dans les Sciences 5 parce que dans les Science il importe que vous vous exprimiés de telle 01 de cçlle sa'onimais cela u.içproche point de l'ej 
+En efFctjil feroit à désirer que pour leDircoursj onne s'amasât point à tant de vaines adrellcil comme on fait, puisque tout l'agrément qu'oxi y devroit chercher, feroit de faire en sorte qu'i: ne pût pas tout-à-fait déplaire, ni aussi donne:j trop de. plaisir j étant de la juflice de ne s'ataJ cher qu'à Ion Sujet & de travailler fcgccement s fiirc connaitre la vérité i taut le reste, hor; la preuve étant inutile. Pourtant, comme j'a dit, le malheur du iiecle ell tel, qu'aujourj, d'hui ces Adrefies-là font de très grand etFcr àcauseqye l'auditeur u'est pas comme il dé. vroitétre, & que tout est pervert'. Pour l'elo cution, véritablement il y a quelque exception faircjveu qu'elle est ncceifaire en jquelque lorcc dans les Sciences 5 parce que dans les Science il importe que vous vous exprimiés de telle 01 de cçlle sa'onimais cela u.içproche point de l'ej 
 
 D*A RISTOTE, LiV. m. 3 ç 
 
@@ -5513,7 +5536,7 @@ OR les premiers qui se font mis en peine de cultiver l'elocutionjontété les Po
 
 cj\i.e ce fuffent eux qui commençafrent 5 n'i aiant iien cle si propre à féconder le desscin du Poète  4qui est d'Imiter, que lesParoles, qu'on sait être les vives images des Chofes-, & de fait il te trouve que de toutes les parties que la naturno«s a données, il n'y en a pas une qui soit plus propre à imiter ce que nous voulons, que la voix i d'où vient aussi qu'en fuite de l'elocution on a vu paTaitre ces Arts qui servent purement à la représentation, comme celui des Comédiens, celui de jceciter les Foëmes Eplj[iies & quelques autres. 
 
-Et dautant qu'il fut remarqué touchant l'eloCution, que de tous les Poètes qui étoient en réputation la plupart sembloient n'être estimés, qua parce que leur expredion écoit riche, & qu'ils f aiXoient de beaux vers, attendu que pour le fens ils ne difoient que des niaiferies;c'ellpour cela aufli que la didion Poétique d'abord a été en ufagc chés lesorateursjtémoin celle de Gôrgiastcar elle a plu à ce poind, qu'encore aujourd'hui les Ignorans & ceux qui n'ont point de goût s'imaginent qu'un homme fait merveilles quand il s'en fert. Cependant tant s'en faut que cela soit, Que la Profe a une did;ion toute différente de celle de la pœfie: Et pour le faire voir, c'est que ce qui ejst arrivé dans la pœfie depuis peu, le juitifie clairementjcar il se trouve que de tous les Poètes qui travaillent'pour le théâtre, il n'y en a pas-un qui présentement se serve de la même didion dont on se servoit autrefois. En Çtct comme premièrement des vers Tetrametres, ils ont paiTé aux lambiquesjà cause que de tous les vers l'iambique est celui qui approche le plus de la profe: Audi de tous les Mots ils ont quitté ceux qui s'éloignent de la façon ordinaire de parler, lailTant-là tout ce qui auparavant servo.t à emblir leur Di6tioa-.erti 
+Et dautant qu'il fut remarqué touchant l'eloCution, que de tous les Poètes qui étoient en réputation la plupart sembloient n'être estimés, qua parce que leur expredion écoit riche, & qu'ils f aiXoient de beaux vers, attendu que pour le fens ils ne difoient que des niaiferies;c'ellpour cela aussi que la didion Poétique d'abord a été en ufagc chés lesorateursjtémoin celle de Gôrgiastcar elle a plu à ce poind, qu'encore aujourd'hui les Ignorans & ceux qui n'ont point de goût s'imaginent qu'un homme fait merveilles quand il s'en fert. Cependant tant s'en faut que cela soit, Que la Profe a une did;ion toute différente de celle de la pœfie: Et pour le faire voir, c'est que ce qui ejst arrivé dans la pœfie depuis peu, le juitifie clairementjcar il se trouve que de tous les Poètes qui travaillent'pour le théâtre, il n'y en a pas-un qui présentement se serve de la même didion dont on se servoit autrefois. En Çtct comme premièrement des vers Tetrametres, ils ont paiTé aux lambiquesjà cause que de tous les vers l'iambique est celui qui approche le plus de la profe: Audi de tous les Mots ils ont quitté ceux qui s'éloignent de la façon ordinaire de parler, lailTant-là tout ce qui auparavant servo.t à emblir leur Di6tioa-.erti 
 
 queH 
 
@@ -5833,7 +5856,7 @@ tristc lui-iTiême & accompagné d'une certaine
 
 humilité } & ainsi en çjst-il de toutes les autres 
 
-jpailions.La Didlion aufli qui est accommodée au 
+jpailions.La Didlion aussi qui est accommodée au 
 
 iujet, ne feit pas peu à persuader y attendu que 
 
@@ -5877,7 +5900,7 @@ de la différence dans la vie des hommes & ne change pas les mœurs. De manière
 
 m 
 
-'Ne autre adresse qui touche aflés & fait im_ preiTion sur refprit, est ce qui se lit aujourd'hui fi communément, & même avec impoitunitc> dans les Ouvrages de ceux qui écrivent, lors qu'il s'agit de faire recevoir quelque proposition uteufejpar exemple quand ils disent, Ef qui est Vjgmrtint qui ne [fait fds cela? N'est-cepa une whofe que tout le monde cmnwUzi l'auditeur qui a bonne opinion de lui-même, & qui auroit honte d'avoiier foh ignorance, se range aufli-tôt de vôtre Parti, afin de n'être pas le ieul qui fcmble ignorer ce qu'il croit que tous les autres savent.A l'égard du temps auquel il fera à propos 4e s'en servir, ou non>c'est une chose qui fuppose du jugement, & qui a cela de commun avec le icstc ài autres adiëiTes de la retorique, 
+'Ne autre adresse qui touche aflés & fait im_ preiTion sur refprit, est ce qui se lit aujourd'hui fi communément, & même avec impoitunitc> dans les Ouvrages de ceux qui écrivent, lors qu'il s'agit de faire recevoir quelque proposition uteufejpar exemple quand ils disent, Ef qui est Vjgmrtint qui ne [fait fds cela? N'est-cepa une whofe que tout le monde cmnwUzi l'auditeur qui a bonne opinion de lui-même, & qui auroit honte d'avoiier foh ignorance, se range aussi-tôt de vôtre Parti, afin de n'être pas le ieul qui fcmble ignorer ce qu'il croit que tous les autres savent.A l'égard du temps auquel il fera à propos 4e s'en servir, ou non>c'est une chose qui fuppose du jugement, & qui a cela de commun avec le icstc ài autres adiëiTes de la retorique, 
 
 Que s'il se troûVe de l'hiperbole à et qu'ôô dit, & qu'on soit palfc à quelque excesjie remède est ce qui se fait aujourd'hui si ordinairement j Car alors il faudra que l'orateur se blâme luijnêmc, & se reprenne d'avoir failli jveu que par la il fera croire que tout ce qu'il dit est vrai, puis que quand il se méprend & vient à manquer j iJl (jait bien s'en appercevoir. 
 
@@ -5903,7 +5926,7 @@ gloire U reputatlonyc, sc encore.
 
 CèHX donc tMêjJléursqiiï pOiCf la gloire U'
 
-falut de leur Patrie ont bien voulu foiiffrir, (ic. Car sans doute tous ceux qui font dans le tranfport ont apris de dire des choses semblables j &'¦ c'est aufli ce qui fait qu'oi\ est reçii à les dire, | cause qu'en ces rencontres l'auditeur lui même ne fepoifede pluSj& participe au même tranfport  & de fait c'est la raison pourquoi telle manière convient particulièrement à laPoë(ie, à cause que; laPoëfie a quelque chose d'extraordinaire & de> divin. 
+falut de leur Patrie ont bien voulu foiiffrir, (ic. Car sans doute tous ceux qui font dans le tranfport ont apris de dire des choses semblables j &'¦ c'est aussi ce qui fait qu'oi\ est reçii à les dire, | cause qu'en ces rencontres l'auditeur lui même ne fepoifede pluSj& participe au même tranfport  & de fait c'est la raison pourquoi telle manière convient particulièrement à laPoë(ie, à cause que; laPoëfie a quelque chose d'extraordinaire & de> divin. 
 
 Ces façons de parler là donc & autres termes peuvent êtr« emploïés > ou de la manière qae" nous venons de dire, ou avec Ironie & en raillane comme fait Gorgias, & comme il se voit dans le .Erf de Platon, 
 
@@ -5971,7 +5994,7 @@ Ouil y A deux fort es dElocmiosté
 
 Lya deux sortes d'EIocutUJn > car il faut de necedlGé, Ou que la Didiou ne s'arrête point & qu'elle soit une par sa liaifon continuel-le y comme les Anuboles & ces longues trainées des Poètes Dithtrambques i Ou bien il faut qu'elle fait renfermée d.;ns de certaines bornes, & semblable aux Antifirohei. des vieux Poètes. 
 
-Quant â la premiereelle est ancienne, & même I nous Toions qu'Herodote sen'est servi -, car c'est tmli qu'il commence son Histoire.Ceri est l*Exfofition del'Htstoire comsée par Hérodote naHf de Thuriumyc, Et de vrai il le trouve qu'autre-, fob il n'y avait autre Didionen ufage, que cel-; Ic-là: maintenant elle est abandonnée Scpcudç. gens la goûtent. 7 
+Quant â la premiereelle est ancienne, & même I nous Toions qu'Herodote sen'est servi -, car c'est tmli qu'il commence son histoire.Ceri est l*Exfofition del'Htstoire comsée par Hérodote naHf de Thuriumyc, Et de vrai il le trouve qu'autre-, fob il n'y avait autre Didionen ufage, que cel-; Ic-là: maintenant elle est abandonnée Scpcudç. gens la goûtent. 7 
 
 Au relte j'appelle pr<5i/(»»«o;i?/w«/« «elle qui-i we finit point d'elle-même, si ce n'est que la maticrc qu'on traite vienne à finir j or est-il qu'il tCi a rien de si defagrcable ni de si laffantjà cause qu onn'ivoit point de fin i car les hommes ont cela, qu'en toutes choses âls veulent voir une fim. d'où vient que ceux qùlcoorent pour le prjx, lors.l qu'ils arrivenrauXrTournans & perdent le but dé. ycuëfejnblent comme hors dhaleine & manque« 
 
@@ -6109,7 +6132,7 @@ En un exemple de refsemblance pour la dernière fyllabe  el]: comme de dire,
 
 Et que te feroit-il arrivé de fâcheux, pour (tvoir vu un paresseux?. 
 
-Apres tout jrien. n'empêche qu'une même Petiode ne puilTe avoir tout ce que nous venons de dire, & qu'il ne s'y rencontre i la fois & Antithefe, ôc Egalité de membres, & Rejsemblance de termlnaifons. Pour ce qui est du commencement fie chaque Période, c'est une matière qui a été traitée exadement dans nos Livres de via Rhe. torique à Theodeéle. Au reste il faut remarquer qu'il se rencontre des Antithefes fauiTes aufli bien que de véritables i témoin cesse qui se voit 4ans Epicharmc quand il dit, 
+Apres tout jrien. n'empêche qu'une même Petiode ne puilTe avoir tout ce que nous venons de dire, & qu'il ne s'y rencontre i la fois & Antithefe, ôc Egalité de membres, & Rejsemblance de termlnaifons. Pour ce qui est du commencement fie chaque Période, c'est une matière qui a été traitée exadement dans nos Livres de via Rhe. torique à Theodeéle. Au reste il faut remarquer qu'il se rencontre des Antithefes fauiTes aussi bien que de véritables i témoin cesse qui se voit 4ans Epicharmc quand il dit, 
 
 Or tantôt nota étions msembU Mt tantôt yétois avec eux. 
 
@@ -6153,7 +6176,7 @@ En cet exemple l'on voit que le mot de Paix est
 
 opposé à celui de guerre, 
 
-En fécond litu cette grâce se rencontrera dans les mots, sils font mis avec Métaphore -, pourvu que jtelle métaphore ne soit ni tirée de loin, puilque d'abord ilferoit difficile de l'entendre i ni aufli trop connue & trop commune, à cause qu'elle ne toucheroit point. 
+En fécond litu cette grâce se rencontrera dans les mots, sils font mis avec Métaphore -, pourvu que jtelle métaphore ne soit ni tirée de loin, puilque d'abord ilferoit difficile de l'entendre i ni aussi trop connue & trop commune, à cause qu'elle ne toucheroit point. 
 
 Enfin il s'y remarquera de la grace, si la diion'est Energique S)L met la chose devant les yeux i car enfin tout ce qui est reprefenté dans l'aâiion, se fait beaucoup mieux voir & touche bien d'a« montage jque ce qui n'agit pas encore. i 
 
@@ -6263,7 +6286,7 @@ beaucoup & qui donne à l'ejçpression toute une
 
 autre grâce. 
 
-On pourrait aufli alleguei'ce que dit un joui: ïphicrate. 
+On pourrait aussi alleguei'ce que dit un joui: ïphicrate. 
 
 Le discours y Mejfieursy que jentreprends, fû f.'ï ouvrir un chemin dH ttfiVsrs des grfma' allons ds Chmh 
 
@@ -6367,7 +6390,7 @@ Impatiente defrAfper, **It tom de nicme, lorf qu'il dit,. . Les Dards fichés, e
 
 Ou comme il dit encore en un auae endroit, "Et la pique ennemie, avide de fonfang, »ia4. 1 s., y.  1. de fureur élui perce le fianf. 
 
-Car à caufc que dans ces exemples le poète parle de toutes ces choses comme si véritablement elles ctoient animéesi aufli semble-t'il que d'elles-mêmes elles agissent & se portent à quelque adion, En effet le mot à'Impudent, qui ell attribué à la Pierrejcelui d'Avide, qui est donné à la piquejôC' tous les autresjfont autant d'adions qui viennent de choses qui ont de la vie. Or le poète, quiest adroit, a fceu à propos s'en servr par Métaphore, à cause de l'analogie qui s'i rencontre:Et de vrai l'on peut dire que ce que la pierre fait à l'égard de Sifyphe /l'impudent le fait à l'égard de celui qu'il choque par ibn impudence. Le même Poète Die manque pas d'en faiic auunt dm$ ses.plai 
+Car à caufc que dans ces exemples le poète parle de toutes ces choses comme si véritablement elles ctoient animéesi aussi semble-t'il que d'elles-mêmes elles agissent & se portent à quelque adion, En effet le mot à'Impudent, qui ell attribué à la Pierrejcelui d'Avide, qui est donné à la piquejôC' tous les autresjfont autant d'adions qui viennent de choses qui ont de la vie. Or le poète, quiest adroit, a fceu à propos s'en servr par Métaphore, à cause de l'analogie qui s'i rencontre:Et de vrai l'on peut dire que ce que la pierre fait à l'égard de Sifyphe /l'impudent le fait à l'égard de celui qu'il choque par ibn impudence. Le même Poète Die manque pas d'en faiic auunt dm$ ses.plai 
 
 DA R I? T T E, L I V. iiI. 4t7 
 
@@ -6491,7 +6514,7 @@ Ou §lu'une Mafure est la fohhe déchirée d'um Maifm, Ou encore comme il fut d'
 
 4% 1" A R H E T O iL I Qni 
 
-ckofe est de telle conséquencc, qu il n'y a rien qiii" rende un Poète plus ridicule que d'i manquer quelque habile homme qu'il foie d'ailleurs cornjne quand ils apporteiu de ces comparaisons. 
+chose est de telle conséquencc, qu il n'y a rien qiii" rende un Poète plus ridicule que d'i manquer quelque habile homme qu'il foie d'ailleurs cornjne quand ils apporteiu de ces comparaisons. 
 
 jnjl que le jerfil ses jambes font tortues 
 
@@ -6543,7 +6566,7 @@ Apres touc il se trouve que les Hiperboles
 
 foient, à cause qu'il y a de l'excès dans tout ce 
 
-qu'elles diCtnt i aufli est. ce la raison pourquoi 
+qu'elles diCtnt i aussi est. ce la raison pourquoi 
 
 „ceux qui font en colère s'en fetyent principale
 
@@ -6599,7 +6622,7 @@ ET pour montrer combien la diference cl grande de ces deux Stiles, c'est qu'il n
 
 C'efilni, MeJJieurs, qui'Votis avoltZy c*ejè lui qui'vot atrompésyc'est lui enfin qui afaif son pojfible pour vofn trahir  vous livrer à 'Vos Ennemis. s\ 
 
-)Ut d'autres exemples de telles repctitiGnSjiI n'i qu'à se souvenir ce, qu'on a yù faire au Coedicn Philempn.dans la pièce d'Anaxandndas., timléc h Geromoméinie o\x Les Vieux Fo«, lorfle Khadamante & Palamede paroissent sur le heatre. Et encore dans le prologue des Pieux, i le mot de Moi est si souvent ropeté -, car qui animeroit cela de Tadion & ne leferoit valoir,  feroit une chose aufli mauiTade, ede voir à ¦\ homme porter une poutre, comme il y a au Koverbe. 
+)Ut d'autres exemples de telles repctitiGnSjiI n'i qu'à se souvenir ce, qu'on a yù faire au Coedicn Philempn.dans la pièce d'Anaxandndas., timléc h Geromoméinie o\x Les Vieux Fo«, lorfle Khadamante & Palamede paroissent sur le heatre. Et encore dans le prologue des Pieux, i le mot de Moi est si souvent ropeté -, car qui animeroit cela de Tadion & ne leferoit valoir,  feroit une chose aussi mauiTade, ede voir à ¦\ homme porter une poutre, comme il y a au Koverbe. 
 
 l Le même se doit entendre des Confondions; si exemple de cette sorte, 
 
@@ -6663,7 +6686,7 @@ DA R I s T O T E, L I V. HT. 431
 
 loitctre plus exadlcSc plus tiavai lice j & beau:oup plus même cuand on n'aura à faire qu'à ua ugc que quand on aura à faire à plusieurs, parie qu'alors, la rhétorique se trouvanc à l'étroit, es adresses servent de p:u, étant aisé en ces rencontres de remarquer h ce qui se dit fait à la aufe ou non: outre que les matières y font rraiées paiflblement & sans chaleur, ce qui est causauiïi que d'ordinaire ks Jugemens qui s'i renent en font beaucoup plus épurés & plus juriliques. 
 
-Âinfi toute Dislion ne convient pas à toui sorte de discours, & il y en a ime qui est pour adion, Ôc l'autre pour être leuë; Et c*ell aufli Il raison pourquoi les orateurs qui excellent en une, n'excellent pas en l'autre. Car là princialement où il ert befoin de beaucoup d'aâ:!on, li oùjoars il faut que la diction soit moins exaéle; l'est-à-dire aux occafions où la voix doit être ilevée, & particulièrement lors qu'il faut crier de Dute sa force, comme quand on a à parler deiaut un grand P'uple. 
+Âinfi toute Dislion ne convient pas à toui sorte de discours, & il y en a ime qui est pour adion, Ôc l'autre pour être leuë; Et c*ell aussi Il raison pourquoi les orateurs qui excellent en une, n'excellent pas en l'autre. Car là princialement où il ert befoin de beaucoup d'aâ:!on, li oùjoars il faut que la diction soit moins exaéle; l'est-à-dire aux occafions où la voix doit être ilevée, & particulièrement lors qu'il faut crier de Dute sa force, comme quand on a à parler deiaut un grand P'uple. 
 
 r A Didion donc la plus exade de toutes Si la plus propre à être mife sur le papier, est celle u genre démonstratifcir elle est sa te principannent pour être leue. L'autre qui vient 2prés, est 1 didion du genre Judiciaire.De croire mainteant comme quelques uns veulent, qu'il faille jouter à cette divifion es qu'ils disent, §lue la yion doit être agréable éf" magnifiue, cela est iprrflu: car pourquoi ne pas dire encore, 6fi7e oit erre fohrejliherihy & ainsi du reitc des autres 'ertus qui regardent lesMœui's?En effet iupposé Qu'elle soit agréable, i\ est certain que rien ne lui ianquera de tout ce qui a été remarqué pour la ,;aûre pai:faice, li tant que la defiaicion que nous 
 
@@ -7139,7 +7162,7 @@ par exemple dans le barreau, s'il s'agitdeFair & qu'on prétende.
 
 e ta chose n a point ejlefaitte,' Surquoi il faudra insistcr, c'est de monstrer aux '3ugC3 |2«'i7tf ne h'a. point efléesseciivement. I De même en'est-il des autres Chefs, quand oa i aura à prouver. 
 
-ou §'"on na point fait de tort; ou-§life le tort est moindre qu'on nô" die, ou 6*0» ri a fait que ce quon devoit; Et ce que je viens de dire ici routhant la négative pour fDefF ndre, f doit aufli entendre de V AffÏYrAMive pour Accufv.r; par exemple pour inonstrer.J?*'i«w? chose a été faite, l'elle a porté préjudii e-ySii. a nfi du reste des autres Chefs. Or il ae faut pis ignorer que la qtiestion de Fait est la feule des quatre que nous venons de remarquer, ou il faut de neceflité que l'une des parties soit maiiicieuie & de mauvaife se:-, car enfi " il l'on cont ie ffialà propos en es rencontres, ce n st po nt l'i-
+ou §'"on na point fait de tort; ou-§life le tort est moindre qu'on nô" die, ou 6*0» ri a fait que ce quon devoit; Et ce que je viens de dire ici routhant la négative pour fDefF ndre, f doit aussi entendre de V AffÏYrAMive pour Accufv.r; par exemple pour inonstrer.J?*'i«w? chose a été faite, l'elle a porté préjudii e-ySii. a nfi du reste des autres Chefs. Or il ae faut pis ignorer que la qtiestion de Fait est la feule des quatre que nous venons de remarquer, ou il faut de neceflité que l'une des parties soit maiiicieuie & de mauvaife se:-, car enfi " il l'on cont ie ffialà propos en es rencontres, ce n st po nt l'i-
 
 Y iij 
 
@@ -7245,7 +7268,7 @@ D€i*Jnterrogaùon..
 
 KfJM OncHAiir.Vlnterrogatim, le ' Yrai tvinps de s'en fcrvii, est lorC-p-vque de deux chosss, dont l'une.;: aura été accordée par la part>6 AyQiïz, vous ne pourrés l'inter-. ioger sur l'autrcqu? de sa Reponfeâl ne s'ejiiu"vs une absurdité.Amïï en ufa Pciiclés quand il interrogea Lampon sur ce qui s'éioit yj-ffé aux mystçres d4 CeréSjappcllée la déef1 se S(Uf: taire j car celui-ci aiant répopdu, 
 
-6e ce Yiéaitfdi une. ckofe qutfe révélât'¦ ¦ À tout h monde, & qu'il falott être Initié pourr (eld. Pcriclés là deffus lui demanda; S/ lui-mê-' meff-avoit bien ce qui s'y étoit feifséïi.co'CïX-. me il lui repondit Qu'o/i, qu'il ieffavolt bien,., Pcric!és ajouta en même temps, Et comment, i lefouvex.'VùHiS ffeivcir,'V9HS qui êtes aussi sH -a initié que moi? 
+6e ce Yiéaitfdi une. chose qutfe révélât'¦ ¦ À tout h monde, & qu'il falott être Initié pourr (eld. Pcriclés là deffus lui demanda; S/ lui-mê-' meff-avoit bien ce qui s'y étoit feifséïi.co'CïX-. me il lui repondit Qu'o/i, qu'il ieffavolt bien,., Pcric!és ajouta en même temps, Et comment, i lefouvex.'VùHiS ffeivcir,'V9HS qui êtes aussi sH -a initié que moi? 
 
 Secondement il y aura lieuse se servir d'In — terrogatoi, Qusnd de deux, propositions l'unei,  f:-ra très claire, & l'autre de telle qu-il.ité qu'on ne:.-. fera po'int en doute que la partie averfe n'en de meure d'accord si on vient à l'interro2;er d.f- fusiAvcc cette précaution poustant? de iaiCx la 4 { 
 
@@ -7267,7 +7290,7 @@ Hors ces.qutLSoccations, l'interrogation estc tellement miitile, qu même il ne 
 
 VouY réfflnàre à une Interrogmon. 
 
-.Uant dja Manière de répendre a unein-i-' ?rrDgat!on-, Si celle qu'on nous tait est cap— tieule& entérine un double iens; alors on doit: ulbc de diflindlion, mais non pas en (i peu de pa-roles qu'on ne la comprenne. Que si l'interrogation quvoii fait nous engage à. dire àes-chosescontraires en apparence i le remcde est., en mtmt temps de la réponfw d'apporter la folution avant que la partie ait le lo'.fir de pourlufvre ses intcr*logations, nids t ixer aucune conclusion à nôtr«.: dû.lavantage: car ce ne fera pas une chose biendifSciie que de prévoir la rafon qu'il faudra ap— pprter.'Tout ceci aurestc a été expliqué nerte*' renc dans nos Topiques, aufli bien que ce q'il Titgarde la. matière des Solutions. 
+.Uant dja Manière de répendre a unein-i-' ?rrDgat!on-, Si celle qu'on nous tait est cap— tieule& entérine un double iens; alors on doit: ulbc de diflindlion, mais non pas en (i peu de pa-roles qu'on ne la comprenne. Que si l'interrogation quvoii fait nous engage à. dire àes-chosescontraires en apparence i le remcde est., en mtmt temps de la réponfw d'apporter la folution avant que la partie ait le lo'.fir de pourlufvre ses intcr*logations, nids t ixer aucune conclusion à nôtr«.: dû.lavantage: car ce ne fera pas une chose biendifSciie que de prévoir la rafon qu'il faudra ap— pprter.'Tout ceci aurestc a été expliqué nerte*' renc dans nos Topiques, aussi bien que ce q'il Titgarde la. matière des Solutions. 
 
 D'A R I s T O T E, LiV. in. 471 
 
@@ -7391,11 +7414,11 @@ Page 6  fuiCque  c. Le mot de'Déim/ijiratim
 
 est: prs ici, i)our cettv; troiliéme sorte de Preuve artificielle dont il est parlé au Chapitre suivanu 
 
-p  Et cela d'autant, &c, Vûï: le mot de Vrai Ariflote entend, Ce qui arrive nécessairement & toujours de la même façon.Par celui de vraisembla' lie il entend simplement ce qui n'arrive que pour Tordinaire. C.s termes au reste font si confiderables en LogquCj qu'ils embralTent & partagent tntr'eux tout ce qui tombe sous sa connaissance i aufli font'il s cause qu'on lui domie deux noms > 
+p  Et cela d'autant, &c, Vûï: le mot de Vrai Ariflote entend, Ce qui arrive nécessairement & toujours de la même façon.Par celui de vraisembla' lie il entend simplement ce qui n'arrive que pour Tordinaire. C.s termes au reste font si confiderables en LogquCj qu'ils embralTent & partagent tntr'eux tout ce qui tombe sous sa connaissance i aussi font'il s cause qu'on lui domie deux noms > 
 
 R E K A R QU E S. 
 
-cir cette Partie qui s'attache au Vrai, s'appelle 'proprement iPf/f/j l'autre qui s'attache au Yrai¦t'emblable s'appelle dlaleclijueyZatrement Topiques. Or la raiibn pourquoi la même Faculté qui traite du Vrai, doit aufli traiter du vraisemblable; c'est qu'il n'y a pas grande diserence de l'une à l'autre -, Et défait., entre Ce qui arrive toàfours & Ce c[Hi arrive tres-foMVent ¦» il ne Sagit ue du Plus & du Moins. 
+cir cette Partie qui s'attache au Vrai, s'appelle 'proprement iPf/f/j l'autre qui s'attache au Yrai¦t'emblable s'appelle dlaleclijueyZatrement Topiques. Or la raiibn pourquoi la même Faculté qui traite du Vrai, doit aussi traiter du vraisemblable; c'est qu'il n'y a pas grande diserence de l'une à l'autre -, Et défait., entre Ce qui arrive toàfours & Ce c[Hi arrive tres-foMVent ¦» il ne Sagit ue du Plus & du Moins. 
 
 I 
 
@@ -7529,7 +7552,7 @@ cnasse, mais depuisqu'i quitta ce lieu avec Us
 
 autres hablpns pour aliei demeurer à Thuriuip,. 
 
-jp,.j. Vnexempiej donc de cette refewklàpce y. êe.€, Quoi qu: la plupart des manières figurées qui jfir nilfent ce Chapitre foient ridicules en nôtre la»- gue, je n'ai pas laifle de vouloir faire, enteiidue. mon Auteur. Le premiei exemple donc quei j'ai apporté est pour répondre à celui d'Ariilote, '/tihaSiycify)}! vàf àvi»., , ce queje Latin ex-. plique aflés hcureufement, aufli bien que l'auq» rxemple qui le fuit, Agrufn accepit Agrum abipr fry et qui veut dire, eu françois pour le feus j if tJe luune mi chante terrf.B. le kçomJL 
+jp,.j. Vnexempiej donc de cette refewklàpce y. êe.€, Quoi qu: la plupart des manières figurées qui jfir nilfent ce Chapitre foient ridicules en nôtre la»- gue, je n'ai pas laifle de vouloir faire, enteiidue. mon Auteur. Le premiei exemple donc quei j'ai apporté est pour répondre à celui d'Ariilote, '/tihaSiycify)}! vàf àvi»., , ce queje Latin ex-. plique aflés hcureufement, aussi bien que l'auq» rxemple qui le fuit, Agrufn accepit Agrum abipr fry et qui veut dire, eu françois pour le feus j if tJe luune mi chante terrf.B. le kçomJL 
 
 II 
 
@@ -8013,7 +8036,7 @@ uxJHUs, 378
 
 xcmpies, 46'o 
 
-|iixemple, sa matière, icj. sa nature, & comment on s'en fert, 13.187. ses cfptces 183. reflemble a l'mdudion, i ç. d'aufli grand ufage que l'eni.thyméme, \6. plus propre pour la délibérait tion, I o i.perfaade mieux que la fable, 187 ixcrcices, 45 
+|iixemple, sa matière, icj. sa nature, & comment on s'en fert, 13.187. ses cfptces 183. reflemble a l'mdudion, i ç. d'aussi grand ufage que l'eni.thyméme, \6. plus propre pour la délibérait tion, I o i.perfaade mieux que la fable, 187 ixcrcices, 45 
 
 crcice moins considérablc qae la santé, 6 ixorde, 43 5.437.445.ce qu'il contient, sa fonc
 
@@ -8213,7 +8236,7 @@ cesCûé clés Lieux propres, ji. diference des Lieux propres 6c (des Lieux comm
 
 Lperois, 418. 
 
-Lpix, 3(5.que pour être capable de faire des lois, il faut savoir rHistoire, & avoir voyagé, 37 
+Lpix, 3(5.que pour être capable de faire des lois, il faut savoir rhistoire, & avoir voyagé, 37 
 
 Loixfont de deux fGrtes3io4j:40.pechent en certaines chosesjCe qui donne lieu à réquité, i45. Qu'il est dangereux de côtrevenir au lois, i 56"' pour les combattre,!  j.pour les defendre, i 5 5 
 
