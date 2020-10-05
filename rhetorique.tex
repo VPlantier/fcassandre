@@ -8,6 +8,8 @@
 
 \usepackage{fontspec}
 
+\setmainfont[Ligatures = Common,  Style = Historic]{EB Garamond}
+
 \usepackage[a5paper,
            inner=24mm,outer=15mm,top=24mm,bottom=24mm,
            includefoot,
@@ -35,6 +37,12 @@
 \renewcommand{\thechapter}{}
 \renewcommand{\thepart}{}
 
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[CO, CE]{\thepage}
+
 \usepackage{titlesec}
 
 \titleformat
@@ -43,8 +51,9 @@
 {\raggedright}
 {}
 {0pt}
-{\Large\itshape}
+{\large\itshape}
 
+\titleclass{\section}{straight}
 \titleformat
 {\section} % command
 [display] % shape
@@ -62,7 +71,7 @@
 {}
 {0pt}
 {\Huge\MakeUppercase}
-\titlespacing*{\chapter}{0pt}{40pt}{40pt}
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
 
 \titleclass{\part}{top}
 \titleformat
@@ -72,7 +81,9 @@
 {}
 {0pt}
 {\Huge\MakeUppercase}
-\titlespacing*{\part}{0pt}{40pt}{40pt}
+\titlespacing*{\part}{0pt}{0pt}{0pt}
+
+\renewcommand{\baselinestretch}{1.1}
 
 \newenvironment{emphpar}
     { 
@@ -96,41 +107,18 @@ D'ARISTOTE}
 
 \begin{document}
 
+\renewcommand{\headrulewidth}{0pt}
+
 \maketitle
 
-Lettre de M. \textsc{D'Ablancourt} au traducteur, sur la première édition de cet ouvrage. 
+\input{chapitres/1_preface.tex}
 
-Monsieur
 
-Je ne vous ai pas donné mon \textsc{Lucien} comme une 
-bonne chose, mais comme une chose due: Car après 
-la faveur que vous m'aviez faite de me donner votre 
-belle traduction, j'étais comme obligé de vous
-présenter la mienne, quelque mauvaise qu'elle fût. Je ne 
-prétends donc point qu'elle vous doive servir de modèle,
-elle n'est pas assez exacte pour cela, et ne peut porter
-le nom de traduction qu'improprement et parce 
-qu'on ne lui en peut donner d'autre. Ce n'est pas que 
-je croie avoir gâté ce que j'ai altéré, mais c'est afin 
-qu'on ne croie pas que je veuille faire passer pour des 
-règles de traduction les libertés que j'ai prises. C'est la 
-vôtre, Monsieur, qui peut supporter la plus exacte censure, 
-et qui n'a rien ôté à son auteur que l'obscurité. 
-C'est pourquoi je vous conjure d'en entreprendre de 
-nouvelles, et d'achever la traduction de ce grand 
-homme qui est si peu intelligible dans les autres; car je 
-soutiens qu'Aristote est beaucoup plus clair chez lui que 
-chez les traducteurs latins, et que souvent il faut 
-lire l'original pour entendre la version. Le public vous 
-sera obligé du travail que vous entreprendrez, à cause 
-du profit qui lui en reviendra, et moi je ferai gloire de 
-vous en avoir donné l'envie, comme celui qui suis, etc.
+\part{Le premier livre}
 
-\textsc{Perrot D'Ablancourt}
-
-A Vitry le 9 novembre 1654
-
-\tableofcontents
+\fancyhead[LE]{La rhétorique d'Aristote}
+\fancyhead[RO]{Le premier livre}
+\renewcommand{\headrulewidth}{1pt}
 
 \input{chapitres/livre1chapitre1.tex}
 \input{chapitres/livre1chapitre2.tex}
@@ -149,6 +137,11 @@ A Vitry le 9 novembre 1654
 \input{chapitres/livre1chapitre13.tex}
 \input{chapitres/livre1chapitre14.tex}
 \input{chapitres/livre1chapitre15.tex}
+
+
+\part{Le second livre}
+
+\fancyhead[RO]{Le second livre}
 
 \input{chapitres/livre2chapitre1.tex}
 \input{chapitres/livre2chapitre2.tex}
@@ -176,6 +169,11 @@ A Vitry le 9 novembre 1654
 \input{chapitres/livre2chapitre24.tex}
 \input{chapitres/livre2chapitre25.tex}
 \input{chapitres/livre2chapitre26.tex}
+
+
+\part{Le troisième livre}
+
+\fancyhead[RO]{Le troisième livre}
 
 \input{chapitres/livre3chapitre1.tex}
 \input{chapitres/livre3chapitre2.tex}
