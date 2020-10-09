@@ -167,14 +167,10 @@ les codes et le bouton est là.
 
 Jeff Bezos peut profiter à peu près mille fois plus du bonheur d’être riche que Will Smith.
 
-Sacha Guitry, Faisons un rêve :
-
-– Ça y est ? On a toute la vie ?
-
-– Ah ! mieux que toute la vie.
-
-– Mieux que toute la vie ?
-
+Sacha Guitry, Faisons un rêve :\
+– Ça y est ? On a toute la vie ?\
+– Ah ! mieux que toute la vie.\
+– Mieux que toute la vie ?\
 – Oui, nous avons deux jours
 
 ### Lieu II
