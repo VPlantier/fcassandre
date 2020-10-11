@@ -18,6 +18,7 @@
 
 \pagewidth=148mm
 \pageheight=210mm
+\marginparwidth=20mm
 
  \usepackage{comment}
 
@@ -44,6 +45,8 @@
 \fancyfoot[CO, CE]{\thepage}
 
 \usepackage{titlesec}
+
+\usepackage{scrextend}
 
 \titleformat
 {\subsection}
@@ -93,7 +96,23 @@
 	}
 	{ 
 
+
 	\leftskip=0cm
+	}
+
+\newcounter{lieu}
+\counterwithin{lieu}{section}
+\renewcommand{\thelieu}{\Roman{lieu}}
+
+\newenvironment{lieu}
+	{ 
+		\begin{emphpar} 
+		\stepcounter{lieu}
+		\hspace{-0.3em}~\marginpar{\ifthispageodd{\raggedright}{\raggedleft}\tiny\thelieu}
+	}
+	{ 
+		%\ifthispageodd{\marginpar{\raggedright\tiny \thelieu}}{\marginpar{\raggedleft\tiny \thelieu}}
+		\end{emphpar}
 	}
 
 \usepackage{multirow}
