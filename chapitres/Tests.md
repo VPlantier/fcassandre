@@ -179,10 +179,12 @@ Sacha Guitry, Faisons un rêve :\
 > sur une autre qui soit aussi la plus excellente dans le sien, sans difficulté,
 > le genre de la plus excellente l’emportera sur le genre de l’autre
 
-Chuck Berry est un tel dieu du rock que le Missouri est la capitale du rock-n-roll. Les
+~~Chuck Berry est un tel dieu du rock que le Missouri est la capitale du rock-n-roll. Les
 juifs sont meilleurs en physique que les chrétiens orthodoxes. Les saoudiens sont beaucoup
 plus riches que les ... puisque aucun ... n’a la fortune de ...De même, le... les ... sont devenus
-instantanément plus riche que les ...
+instantanément plus riche que les ...~~
+
+ça me casse les couilles de lire des livres, je préfère les films. Sauf le comte de Monte-Christo, que je place au dessus de tous les films.
 
 ### Lieu III
 
