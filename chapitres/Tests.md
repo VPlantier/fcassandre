@@ -184,7 +184,7 @@ juifs sont meilleurs en physique que les chrétiens orthodoxes. Les saoudiens so
 plus riches que les ... puisque aucun ... n’a la fortune de ...De même, le... les ... sont devenus
 instantanément plus riche que les ...~~
 
-ça me casse les couilles de lire des livres, je préfère les films. Sauf le comte de Monte-Christo, que je place au dessus de tous les films.
+ça me gave de lire des romans. Autant regarder des films. Mais, le comte de Monte-Christo... Je le place au dessus de tous les films.
 
 ### Lieu III
 
@@ -207,6 +207,8 @@ instantanément plus riche que les ...~~
 > Que tout ce qui produira un plus grand bien vaudra mieux et sera
 > plus digne de notre choix,
 
+La guerre émerge de la paix. La paix est la fin de la guerre. Si, donc, la paix est préférable à la guerre alors la guerre vaut mieux que la paix.
+
 ### Lieu VII
 
 > Tout ce qui sera produit par une plus excellente chose,
@@ -225,6 +227,8 @@ instantanément plus riche que les ...~~
 
 > Que ce qui n’aura pas tant de besoin d’une chose ou de plusieurs
 > qu’une autre sera meilleur,
+
+Non, on va plutot jouer au Kem's, parce que Mario Kart, faut du matériel, donc c'est moins bien.
 
 ### Lieu XI
 
