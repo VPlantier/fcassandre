@@ -7,7 +7,7 @@
 > Que tout ce qu’elle nous représente comme un bien en chaque
 > rencontre particulière, cela même nous est toujours avantageux
 
-Chaque fois qu’il m’arrive une couille, faut que je picole ! Sans quoi je ne suis pas heureux.
+Chaque fois qu’il m’arrive une tuile, faut que je picole ! Sans quoi je ne suis pas heureux.
 
 > Que le bien est ce qui, par sa présence, fait qu’on se trouve tout
 > autre et si content qu’on ne souhaite rien au delà
@@ -28,7 +28,7 @@ première prémisse impliquera que la comparaison est certaine, ou presque, ce q
 pas souvent. Ce qui arrive souvent, en revanche, c’est qu’on croie à cette certitude sur la base
 des données passées. Pensez à l’œuvre de Nassim Taleb, ou plus simplement, aux vendeurs de
 miracles : « Si vous suivez ma formation à 1000 euros, votre épargne sera multipliée par dix
-en dix ans ! Réfléchissez-y : il suffit que vous possédiez 1600 euros pour y gagner ! »
+en dix ans ! Réfléchissez-y : il suffit que vous possédiez 1200 euros pour y gagner ! »
 
 ### Lieu II
 
@@ -184,7 +184,8 @@ juifs sont meilleurs en physique que les chrétiens orthodoxes. Les saoudiens so
 plus riches que les ... puisque aucun ... n’a la fortune de ...De même, le... les ... sont devenus
 instantanément plus riche que les ...~~
 
-ça me gave de lire des romans. Autant regarder des films. Mais, le comte de Monte-Christo... Je le place au dessus de tous les films.
+En affirmant d'Hitler qu'il est le pire chef d'état de tous les temps, n'ai-je pas prouvé que les
+chefs d'états allemands sont pires que les français?
 
 ### Lieu III
 
@@ -207,7 +208,9 @@ instantanément plus riche que les ...~~
 > Que tout ce qui produira un plus grand bien vaudra mieux et sera
 > plus digne de notre choix,
 
-La guerre émerge de la paix. La paix est la fin de la guerre. Si, donc, la paix est préférable à la guerre alors la guerre vaut mieux que la paix.
+La guerre émerge de la paix. La paix est la fin de la guerre. Si, donc,
+la paix est préférable à la guerre, alors la guerre vaut mieux que la
+paix.
 
 ### Lieu VII
 
