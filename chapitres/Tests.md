@@ -292,6 +292,10 @@ Non, on va plutot jouer au Kem's, parce que Mario Kart, faut du matériel, donc 
 
 > Tout ce qui aura pour son contraire un plus grand mal.
 
+S'il fallait choisir entre se faire larguer ou tomber dans la misère, qui prendrait
+la misère? C'est pourquoi il est toujours plus judicieux de s'étudier à augmenter
+son patrimoine que de chercher l'amour.
+
 ### Lieu XXIII
 
 > Toutes les choses dont la privation nous apportera plus de dommage
@@ -514,3 +518,150 @@ Non, on va plutot jouer au Kem's, parce que Mario Kart, faut du matériel, donc 
 > plus estimables ; et plus, sans doute, à ceux à qui il n’en restera
 > plus qu’une, de plusieurs qu’ils avaient auparavant, qu’aux autres qui
 > n’en ont pas pour une seule.
+
+## VI - De la vertu en général et en particulier
+
+### Lieu I
+
+> Que la vertu est une chose honnête ;
+
+### Lieu II
+
+> Celles qui sont très utiles aux autres.
+
+### Lieu III
+
+> Que tout ce qui contribue à nous rendre vertueux est honnête ;
+
+
+### Lieu IV
+
+> Tout ce qui vient de la vertu et qui en est une suite ;
+
+### Lieu V
+
+> Que tout ce qui sera un effet ou une marque de valeur et tout
+> ce qui aura été souffert en se portant vaillamment fera honneur.
+
+### Lieu VI
+
+> Toutes les actions à qui l’honneur sera proposée pour
+> récompense ;
+
+### Lieu VII
+
+> Celles qui nous apporteront beaucoup plus d’honneur que de
+> profit.
+
+### Lieu VIII
+
+> De toutes les choses qui sont à rechercher pour elles-mêmes, si
+> celui qui les fait ne le fait point pour lui, mais pour d’autres.
+
+### Lieu IX
+
+> De celles qui seront bonnes simplement en général.
+
+### Lieu X
+
+> De tout ce qui est bon naturellement ;
+
+### Lieu XI
+
+> De tout ce qui ne sera pas bon pour soi et dont on ne tirera
+> aucun usage ;
+
+### Lieu XII
+
+> De tout ce qui arrivera à une personne plutôt après sa mort
+> que durant sa vie ;
+
+### Lieu XIII
+
+> Tous les ouvrages publics et ce qui se fait pour les autres ;
+
+### Lieu XIV
+
+> Toutes les entreprises que nous aurons achevées heureusement,
+> et toutes les affaires que nous aurons conduites avec succès, où il
+> n’y allait nullement de notre intérêt, mais seulement de l’intérêt
+> d’autrui.
+
+### Lieu XV
+
+> Tout ce que nous aurons fait à l’avantage des personnes à qui
+> nous serons obligés ;
+
+### Lieu XVI
+
+> Les bienfait encore seront de cette nature ;
+
+### Lieu XVII
+
+> Tout ce qui est contraire aux choses qui font rougir et donnent
+> de la honte ;
+
+### Lieu XVIII
+
+> Tout ce qui nous donne de l’inquiétude et du soin, sans pourtant
+> qu’en cet état nous nous trouvions saisis d’aucune appréhension ;
+
+### Lieu XIX
+
+> Que les vertus et les œuvres des personnes plus parfaites seront
+> aussi plus remarquables et plus dignes d’honneur.
+
+### Lieu XX
+
+> Toutes celles qui feront plus pour la jouissance et le profit des
+> autres que de celui en qui elles se trouveront.
+
+### Lieu XXI
+
+> Du dessein qu’on aura de se venger de ses ennemis plutôt que
+> de faire accord avec eux.
+
+### Lieu XXII
+
+> Que la victoire et l’honneur seront fort à estimer.
+
+### Lieu XXIII
+
+> Tout se qui peut entretenir la mémoire d’un homme et faire
+> parler de lui après sa mort.
+
+### Lieu XXIV
+
+> Que plus une chose sera capable de produire un tel effet, plus
+> elle sera honorable ;
+
+### Lieu XXV
+
+> Tout ce qui ne pourra arriver à une personne qu’après sa
+> mort.
+
+### Lieu XXVI
+
+> Tout ce qui sera suivi d’honneur, de gloire et de réputation.
+
+### Lieu XXVII
+
+> Toutes les choses extraordinaires et qui excellent.
+
+### Lieu XXVIII
+
+> Tout ce qui ne sera possédé d’aucun autre que de nom ;
+
+### Lieu XXIX
+
+> Toutes les acquisitions qui ne seront d’aucun rapport ;
+
+### Lieu XXX
+
+> De tout ce qui sera particulier à chaque peuple et à chaque
+> nation ;
+
+### Lieu XXXI
+
+> De tout ce qui servira de marque à chaque peuple des choses
+> qui sont particulièrement en estime chez lui.
