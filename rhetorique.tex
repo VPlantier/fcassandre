@@ -46,6 +46,10 @@
 \fancyhf{}
 \fancyfoot[CO, CE]{\thepage}
 
+\usepackage[svgnames]{xcolor}
+
+\usepackage{svg}
+
 \usepackage{titlesec}
 
 \usepackage{scrextend}
@@ -58,13 +62,17 @@
 {0pt}
 {\large\itshape}
 
+
 \titleclass{\section}{straight}
 \titleformat
 {\section} % command
 [display] % shape
-{\raggedright\bfseries\LARGE} % format
-{\titlerule\vspace{1pc}%
-\MakeUppercase{\chaptertitlename} \thesection} % label
+{
+	\raggedright\bfseries\LARGE} % format
+{	\def\svgwidth{8cm}
+	\centering\input{lithographie.pdf_tex}\\
+%\vspace{1pc}%
+\raggedright\MakeUppercase{\chaptertitlename} \thesection} % label
 {0pc} % sep
 {} % before-code
 
@@ -124,8 +132,6 @@
 
 \author{François \textsc{Cassandre}}
 
-\usepackage[svgnames]{xcolor}
-
 %\usepackage{graphicx}
 
 \begin{document}
@@ -146,7 +152,7 @@
 	
 	{	\footnotesize \emph{Bullshit vendor} émérite.\\$*~~*$\\$*$\\
 	}
-	
+
 	\vfill 
 	
 	\fbox{βήτα}\\[0.5\baselineskip]
